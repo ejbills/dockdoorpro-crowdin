@@ -72,8 +72,10 @@ jobs:
       - name: Copy Localizable file to DockDoorPro
         run: cp Localizable.xcstrings "$RUNNER_TEMP/DockDoorPro/Localizable.xcstrings"
 
-      - name: Commit Localizable file to DockDoorPro main
+      - name: Open DockDoorPro pull request
         working-directory: ${{ runner.temp }}/DockDoorPro
+        env:
+          GH_TOKEN: ${{ secrets.DOCKDOORPRO_SYNC_TOKEN }}
         run: |
           set -euo pipefail
 
@@ -82,8 +84,36 @@ jobs:
             exit 0
           fi
 
+          branch="sync-localizable-from-crowdin"
+          title="Sync Localizable.xcstrings from Crowdin"
+          body="Updates Localizable.xcstrings from the Crowdin localization repo."
+
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -B "$branch"
           git add Localizable.xcstrings
-          git commit -m "Sync Localizable.xcstrings from Crowdin"
-          git push origin main
+          git commit -m "$title"
+          git push --force-with-lease origin "$branch"
+
+          existing_pr="$(
+            gh pr list \
+              --repo ejbills/DockDoorPro \
+              --head "$branch" \
+              --state open \
+              --json number \
+              --jq '.[0].number // empty'
+          )"
+
+          if [[ -n "$existing_pr" ]]; then
+            gh pr edit "$existing_pr" \
+              --repo ejbills/DockDoorPro \
+              --title "$title" \
+              --body "$body"
+          else
+            gh pr create \
+              --repo ejbills/DockDoorPro \
+              --base main \
+              --head "$branch" \
+              --title "$title" \
+              --body "$body"
+          fi
