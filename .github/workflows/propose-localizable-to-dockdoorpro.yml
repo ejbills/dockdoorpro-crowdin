@@ -1,0 +1,35 @@
+name: Propose Localizable To DockDoorPro
+
+on:
+  workflow_dispatch:
+
+jobs:
+  propose-localizable:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Crowdin repo
+        uses: actions/checkout@v4
+        with:
+          path: crowdin
+
+      - name: Checkout DockDoorPro repo
+        uses: actions/checkout@v4
+        with:
+          repository: ejbills/DockDoorPro
+          token: ${{ secrets.DOCKDOORPRO_SYNC_TOKEN }}
+          path: DockDoorPro
+
+      - name: Copy Localizable file
+        run: cp crowdin/Localizable.xcstrings DockDoorPro/Localizable.xcstrings
+
+      - name: Create pull request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          path: DockDoorPro
+          token: ${{ secrets.DOCKDOORPRO_SYNC_TOKEN }}
+          branch: sync-localizable-from-crowdin
+          delete-branch: true
+          title: Sync Localizable.xcstrings from Crowdin
+          commit-message: Sync Localizable.xcstrings from Crowdin
+          body: Updates `Localizable.xcstrings` from the Crowdin localization repo.
