@@ -13,13 +13,6 @@ jobs:
     steps:
       - name: Checkout Crowdin repo
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.DOCKDOORPRO_SYNC_TOKEN }}
-
-      - name: Configure Crowdin repo remote
-        env:
-          GH_TOKEN: ${{ secrets.DOCKDOORPRO_SYNC_TOKEN }}
-        run: git remote set-url origin "https://x-access-token:${GH_TOKEN}@github.com/ejbills/dockdoorpro-crowdin.git"
 
       - name: Clone DockDoorPro repo
         env:
@@ -59,7 +52,7 @@ jobs:
           pull_request_title: "chore: sync DockDoorPro localizations with Crowdin"
           commit_message: "chore: sync DockDoorPro localizations with Crowdin"
         env:
-          GITHUB_TOKEN: ${{ secrets.DOCKDOORPRO_SYNC_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
           CROWDIN_PROJECT_ID: ${{ secrets.CROWDIN_PROJECT_ID }}
           CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
 
