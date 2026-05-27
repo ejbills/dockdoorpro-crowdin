@@ -5,7 +5,6 @@ on:
 
 permissions:
   contents: write
-  pull-requests: write
 
 jobs:
   synchronize-with-crowdin:
@@ -22,10 +21,10 @@ jobs:
         with:
           repository: ejbills/DockDoorPro
           token: ${{ secrets.DOCKDOORPRO_SYNC_TOKEN }}
-          path: DockDoorPro
+          path: ../DockDoorPro
 
       - name: Pull latest Localizable from DockDoorPro
-        run: cp DockDoorPro/Localizable.xcstrings Localizable.xcstrings
+        run: cp ../DockDoorPro/Localizable.xcstrings Localizable.xcstrings
 
       - name: Commit latest source file if changed
         run: |
@@ -57,12 +56,10 @@ jobs:
           CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
 
       - name: Copy Localizable file to DockDoorPro
-        run: cp Localizable.xcstrings DockDoorPro/Localizable.xcstrings
+        run: cp Localizable.xcstrings ../DockDoorPro/Localizable.xcstrings
 
-      - name: Open DockDoorPro pull request
-        working-directory: DockDoorPro
-        env:
-          GH_TOKEN: ${{ secrets.DOCKDOORPRO_SYNC_TOKEN }}
+      - name: Commit Localizable file to DockDoorPro main
+        working-directory: ../DockDoorPro
         run: |
           set -euo pipefail
 
@@ -71,36 +68,8 @@ jobs:
             exit 0
           fi
 
-          branch="sync-localizable-from-crowdin"
-          title="Sync Localizable.xcstrings from Crowdin"
-          body="Updates Localizable.xcstrings from the Crowdin localization repo."
-
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git checkout -B "$branch"
           git add Localizable.xcstrings
-          git commit -m "$title"
-          git push --force-with-lease origin "$branch"
-
-          existing_pr="$(
-            gh pr list \
-              --repo ejbills/DockDoorPro \
-              --head "$branch" \
-              --state open \
-              --json number \
-              --jq '.[0].number // empty'
-          )"
-
-          if [[ -n "$existing_pr" ]]; then
-            gh pr edit "$existing_pr" \
-              --repo ejbills/DockDoorPro \
-              --title "$title" \
-              --body "$body"
-          else
-            gh pr create \
-              --repo ejbills/DockDoorPro \
-              --base main \
-              --head "$branch" \
-              --title "$title" \
-              --body "$body"
-          fi
+          git commit -m "Sync Localizable.xcstrings from Crowdin"
+          git push origin main
