@@ -16,15 +16,16 @@ jobs:
         with:
           token: ${{ secrets.DOCKDOORPRO_SYNC_TOKEN }}
 
-      - name: Checkout DockDoorPro repo
-        uses: actions/checkout@v4
-        with:
-          repository: ejbills/DockDoorPro
-          token: ${{ secrets.DOCKDOORPRO_SYNC_TOKEN }}
-          path: ../DockDoorPro
+      - name: Clone DockDoorPro repo
+        env:
+          GH_TOKEN: ${{ secrets.DOCKDOORPRO_SYNC_TOKEN }}
+        run: |
+          git clone \
+            "https://x-access-token:${GH_TOKEN}@github.com/ejbills/DockDoorPro.git" \
+            "$RUNNER_TEMP/DockDoorPro"
 
       - name: Pull latest Localizable from DockDoorPro
-        run: cp ../DockDoorPro/Localizable.xcstrings Localizable.xcstrings
+        run: cp "$RUNNER_TEMP/DockDoorPro/Localizable.xcstrings" Localizable.xcstrings
 
       - name: Commit latest source file if changed
         run: |
@@ -56,10 +57,10 @@ jobs:
           CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
 
       - name: Copy Localizable file to DockDoorPro
-        run: cp Localizable.xcstrings ../DockDoorPro/Localizable.xcstrings
+        run: cp Localizable.xcstrings "$RUNNER_TEMP/DockDoorPro/Localizable.xcstrings"
 
       - name: Commit Localizable file to DockDoorPro main
-        working-directory: ../DockDoorPro
+        working-directory: ${{ runner.temp }}/DockDoorPro
         run: |
           set -euo pipefail
 
