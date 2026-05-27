@@ -22,6 +22,20 @@ jobs:
             "https://x-access-token:${GH_TOKEN}@github.com/ejbills/DockDoorPro.git" \
             "$RUNNER_TEMP/DockDoorPro"
 
+      - name: Verify DockDoorPro token permissions
+        env:
+          GH_TOKEN: ${{ secrets.DOCKDOORPRO_SYNC_TOKEN }}
+        run: |
+          can_push="$(
+            gh api repos/ejbills/DockDoorPro \
+              --jq '.permissions.push // false'
+          )"
+
+          if [[ "$can_push" != "true" ]]; then
+            echo "::error::DOCKDOORPRO_SYNC_TOKEN can read DockDoorPro but cannot push branches. Give the token Contents: Read and write on ejbills/DockDoorPro. Pull Requests: Read and write alone is not enough."
+            exit 1
+          fi
+
       - name: Pull latest Localizable from DockDoorPro
         run: cp "$RUNNER_TEMP/DockDoorPro/Localizable.xcstrings" Localizable.xcstrings
 
@@ -113,7 +127,7 @@ jobs:
             gh pr create \
               --repo ejbills/DockDoorPro \
               --base main \
-              --head "$branch" \
+              --head "ejbills:$branch" \
               --title "$title" \
               --body "$body"
           fi
