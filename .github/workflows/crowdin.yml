@@ -16,6 +16,11 @@ jobs:
         with:
           token: ${{ secrets.DOCKDOORPRO_SYNC_TOKEN }}
 
+      - name: Configure Crowdin repo remote
+        env:
+          GH_TOKEN: ${{ secrets.DOCKDOORPRO_SYNC_TOKEN }}
+        run: git remote set-url origin "https://x-access-token:${GH_TOKEN}@github.com/ejbills/dockdoorpro-crowdin.git"
+
       - name: Clone DockDoorPro repo
         env:
           GH_TOKEN: ${{ secrets.DOCKDOORPRO_SYNC_TOKEN }}
@@ -47,14 +52,29 @@ jobs:
           upload_sources: true
           upload_translations: true
           download_translations: true
+          push_translations: false
+          push_sources: false
           localization_branch_name: crowdin-localization-dockdoorpro
-          create_pull_request: true
+          create_pull_request: false
           pull_request_title: "chore: sync DockDoorPro localizations with Crowdin"
           commit_message: "chore: sync DockDoorPro localizations with Crowdin"
         env:
           GITHUB_TOKEN: ${{ secrets.DOCKDOORPRO_SYNC_TOKEN }}
           CROWDIN_PROJECT_ID: ${{ secrets.CROWDIN_PROJECT_ID }}
           CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
+
+      - name: Commit Crowdin result if changed
+        run: |
+          if git diff --quiet -- Localizable.xcstrings; then
+            echo "Crowdin did not change Localizable.xcstrings."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add Localizable.xcstrings
+          git commit -m "chore: sync DockDoorPro localizations with Crowdin"
+          git push origin main
 
       - name: Copy Localizable file to DockDoorPro
         run: cp Localizable.xcstrings "$RUNNER_TEMP/DockDoorPro/Localizable.xcstrings"
