@@ -3,15 +3,42 @@ name: Crowdin Action
 on:
   workflow_dispatch:
 
+permissions:
+  contents: write
+  pull-requests: write
+
 jobs:
   synchronize-with-crowdin:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout Crowdin repo
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.DOCKDOORPRO_SYNC_TOKEN }}
+
+      - name: Checkout DockDoorPro repo
+        uses: actions/checkout@v4
+        with:
+          repository: ejbills/DockDoorPro
+          token: ${{ secrets.DOCKDOORPRO_SYNC_TOKEN }}
+          path: DockDoorPro
+
+      - name: Pull latest Localizable from DockDoorPro
+        run: cp DockDoorPro/Localizable.xcstrings Localizable.xcstrings
+
+      - name: Commit latest source file if changed
+        run: |
+          if git diff --quiet -- Localizable.xcstrings; then
+            echo "Crowdin Localizable.xcstrings already matches DockDoorPro."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add Localizable.xcstrings
+          git commit -m "Sync Localizable.xcstrings from DockDoorPro"
+          git push
 
       - name: Crowdin action for DockDoorPro
         uses: crowdin/github-action@v2
@@ -28,3 +55,52 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.DOCKDOORPRO_SYNC_TOKEN }}
           CROWDIN_PROJECT_ID: ${{ secrets.CROWDIN_PROJECT_ID }}
           CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
+
+      - name: Copy Localizable file to DockDoorPro
+        run: cp Localizable.xcstrings DockDoorPro/Localizable.xcstrings
+
+      - name: Open DockDoorPro pull request
+        working-directory: DockDoorPro
+        env:
+          GH_TOKEN: ${{ secrets.DOCKDOORPRO_SYNC_TOKEN }}
+        run: |
+          set -euo pipefail
+
+          if git diff --quiet -- Localizable.xcstrings; then
+            echo "DockDoorPro Localizable.xcstrings is already up to date."
+            exit 0
+          fi
+
+          branch="sync-localizable-from-crowdin"
+          title="Sync Localizable.xcstrings from Crowdin"
+          body="Updates Localizable.xcstrings from the Crowdin localization repo."
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -B "$branch"
+          git add Localizable.xcstrings
+          git commit -m "$title"
+          git push --force-with-lease origin "$branch"
+
+          existing_pr="$(
+            gh pr list \
+              --repo ejbills/DockDoorPro \
+              --head "$branch" \
+              --state open \
+              --json number \
+              --jq '.[0].number // empty'
+          )"
+
+          if [[ -n "$existing_pr" ]]; then
+            gh pr edit "$existing_pr" \
+              --repo ejbills/DockDoorPro \
+              --title "$title" \
+              --body "$body"
+          else
+            gh pr create \
+              --repo ejbills/DockDoorPro \
+              --base main \
+              --head "$branch" \
+              --title "$title" \
+              --body "$body"
+          fi
