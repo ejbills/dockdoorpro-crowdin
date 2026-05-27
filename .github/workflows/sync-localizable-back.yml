@@ -1,0 +1,45 @@
+name: Sync Localizable Back
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - Localizable.xcstrings
+
+permissions:
+  contents: read
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Crowdin repo
+        uses: actions/checkout@v4
+        with:
+          path: crowdin
+
+      - name: Checkout DockDoorPro repo
+        uses: actions/checkout@v4
+        with:
+          repository: ejbills/DockDoorPro
+          token: ${{ secrets.DOCKDOORPRO_SYNC_TOKEN }}
+          path: DockDoorPro
+
+      - name: Copy Localizable file
+        run: cp crowdin/Localizable.xcstrings DockDoorPro/Localizable.xcstrings
+
+      - name: Commit and push if changed
+        working-directory: DockDoorPro
+        run: |
+          if git diff --quiet -- Localizable.xcstrings; then
+            echo "DockDoorPro Localizable.xcstrings is already up to date."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add Localizable.xcstrings
+          git commit -m "Sync Localizable.xcstrings from Crowdin"
+          git push

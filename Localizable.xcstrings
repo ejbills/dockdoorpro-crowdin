@@ -1,0 +1,1828 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "" : {
+
+    },
+    "\nThis file was exported from v%@ and may contain incomplete data." : {
+      "comment" : "Import version mismatch warning\nSettings backup import version mismatch warning"
+    },
+    " Skipped %lld already existing." : {
+      "comment" : "Import skipped duplicates"
+    },
+    "(End)" : {
+
+    },
+    "%@  %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@  %2$@"
+          }
+        }
+      }
+    },
+    "%@ · %lld widget%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ · %2$lld widget%3$@"
+          }
+        }
+      }
+    },
+    "%@ permission, %@. %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ permission, %2$@. %3$@"
+          }
+        }
+      }
+    },
+    "%@. %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@. %2$@"
+          }
+        }
+      }
+    },
+    "%lld" : {
+
+    },
+    "%lld apps" : {
+      "comment" : "Plural app group contents count\nPlural app group member count"
+    },
+    "%lld apps selected" : {
+      "comment" : "Multiple apps selected for last-window quit setting"
+    },
+    "%lld files" : {
+      "comment" : "File tray widget file count"
+    },
+    "%lld items" : {
+      "comment" : "Plural pinned items count"
+    },
+    "%lld/%lld" : {
+      "comment" : "Count of selected preview actions out of the maximum",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld/%2$lld"
+          }
+        }
+      }
+    },
+    "%lld%%" : {
+
+    },
+    "+%lld" : {
+
+    },
+    "1 app" : {
+      "comment" : "Singular app group contents count\nSingular app group member count"
+    },
+    "1 app selected" : {
+      "comment" : "One app selected for last-window quit setting"
+    },
+    "1 item" : {
+      "comment" : "Singular pinned items count"
+    },
+    "A dividing line between groups" : {
+      "comment" : "Add item type description"
+    },
+    "A restart is recommended to recalibrate magnification zones for the new dock style." : {
+      "comment" : "Restart dialog for dock style change"
+    },
+    "A to Z" : {
+      "comment" : "Alphabetical sort order"
+    },
+    "Accessibility" : {
+      "comment" : "Permission name"
+    },
+    "Accessibility is required for core dock functionality like tracking which apps are running and their window states." : {
+
+    },
+    "Actions appear in the order you enable them." : {
+      "comment" : "Preview action picker order hint"
+    },
+    "Activated!" : {
+
+    },
+    "Activation key:" : {
+      "comment" : "Support email activation key label"
+    },
+    "Add" : {
+
+    },
+    "Add a file for one-click access" : {
+      "comment" : "Add item type description"
+    },
+    "Add a subtle tint from each app icon to its card background." : {
+      "comment" : "App color tint setting description"
+    },
+    "Add App" : {
+      "comment" : "Open panel button"
+    },
+    "Add Apps" : {
+      "comment" : "Open panel button for multi-select"
+    },
+    "Add apps, folders, and files to your dock. You can create more profiles later in Settings." : {
+
+    },
+    "Add File" : {
+      "comment" : "Open panel button"
+    },
+    "Add Folder" : {
+      "comment" : "Open panel button"
+    },
+    "Add Item" : {
+      "comment" : "Add item type picker title\nAdd pinned item button"
+    },
+    "Add Profile" : {
+
+    },
+    "Add Section" : {
+
+    },
+    "Add Slot" : {
+
+    },
+    "Add Stack" : {
+
+    },
+    "Add Widget" : {
+      "comment" : "Add widget picker title"
+    },
+    "Adjust this custom image inside its dock icon slot" : {
+      "comment" : "Custom icon scale slider description"
+    },
+    "After Apps" : {
+      "comment" : "Trailing widget stacks section"
+    },
+    "AirDrop" : {
+      "comment" : "Action to AirDrop file\nWidget name"
+    },
+    "AirDrop All (%lld)" : {
+      "comment" : "Action to AirDrop all selected files"
+    },
+    "Album art & playback" : {
+      "comment" : "Widget tagline"
+    },
+    "All" : {
+      "comment" : "Orientation filter — all"
+    },
+    "All Apps" : {
+      "comment" : "Last window quit scope option"
+    },
+    "All Day" : {
+      "comment" : "All-day event label"
+    },
+    "All Displays" : {
+      "comment" : "Direct profile shortcut target"
+    },
+    "All enabled profiles added" : {
+      "comment" : "Disabled direct profile shortcut add menu item"
+    },
+    "All features are unlocked and ready to use" : {
+      "comment" : "Onboarding completion"
+    },
+    "All items in the Trash will be permanently deleted. This action cannot be undone." : {
+      "comment" : "Empty trash confirmation message"
+    },
+    "All Screens" : {
+      "comment" : "Dock screen mode option"
+    },
+    "All widgets have been added" : {
+
+    },
+    "Alt Tab Window Switcher" : {
+      "comment" : "Shared feature name for the all-window keyboard switcher"
+    },
+    "Always" : {
+      "comment" : "Preview element visibility"
+    },
+    "An invisible gap between items" : {
+      "comment" : "Add item type description"
+    },
+    "Anchor Offset" : {
+      "comment" : "Anchor offset slider"
+    },
+    "Anchor Position" : {
+      "comment" : "Anchor position toggle"
+    },
+    "Anchored End" : {
+      "comment" : "Anchored end setting"
+    },
+    "App Color Tint" : {
+      "comment" : "Toggle for tinting card indicators with app icon colors"
+    },
+    "App Group" : {
+      "comment" : "Add item type\nDefault name for new app group"
+    },
+    "App Icons" : {
+      "comment" : "Liquid Glass flavor name"
+    },
+    "App Name" : {
+      "comment" : "Window preview sort order"
+    },
+    "App Visibility" : {
+      "comment" : "Preview action category"
+    },
+    "Appearance & Magnification" : {
+
+    },
+    "Application" : {
+      "comment" : "Add item type"
+    },
+    "Applications" : {
+      "comment" : "Selected apps for last-window quit setting"
+    },
+    "Apps" : {
+      "comment" : "Control panel section name\nDrawer apps section header"
+    },
+    "AppSense" : {
+      "comment" : "Onboarding AppSense feature"
+    },
+    "Are you sure you want to quit %@?" : {
+      "comment" : "Quit confirmation message"
+    },
+    "Are you sure you want to remove %lld files from the tray?" : {
+      "comment" : "Confirm remove all dialog message"
+    },
+    "Are you sure you want to remove this file from the tray?" : {
+      "comment" : "Confirm removal dialog message"
+    },
+    "Are you sure you want to restart %@?" : {
+      "comment" : "Restart confirmation message"
+    },
+    "Are you sure you want to restart your Mac?" : {
+      "comment" : "Restart confirmation message"
+    },
+    "Are you sure you want to shut down your Mac?" : {
+      "comment" : "Shut down confirmation message"
+    },
+    "Are you sure you want to trash %lld files?" : {
+      "comment" : "Confirm trash all dialog message"
+    },
+    "Ascending" : {
+      "comment" : "Folder sort direction tooltip"
+    },
+    "Assign a different dock profile to each connected display" : {
+      "comment" : "Onboarding per-display description"
+    },
+    "Audio" : {
+      "comment" : "Audio device widget idle label"
+    },
+    "Audio Device" : {
+      "comment" : "Widget name"
+    },
+    "Auto" : {
+      "comment" : "Panel color scheme option"
+    },
+    "Auto-detect failed — choose a directory manually" : {
+      "comment" : "Shown when browser profile data path was not auto-detected"
+    },
+    "Auto-detected from timezone" : {
+      "comment" : "Weather location auto description"
+    },
+    "Auto-switch dock profiles when a linked app is focused" : {
+      "comment" : "Onboarding AppSense description"
+    },
+    "AV Player" : {
+      "comment" : "Liquid Glass flavor name"
+    },
+    "Back" : {
+
+    },
+    "Bar" : {
+      "comment" : "Widget stack page indicator bar style option"
+    },
+    "Battery" : {
+      "comment" : "Battery idle label\nWidget name"
+    },
+    "Before Apps" : {
+      "comment" : "Leading widget stacks section"
+    },
+    "Both Sides" : {
+      "comment" : "Modifier key side"
+    },
+    "Bottom" : {
+      "comment" : "Dock position\nNative dock position"
+    },
+    "Bottom Center" : {
+      "comment" : "Preview element position"
+    },
+    "Bottom Leading" : {
+      "comment" : "Preview control position\nPreview element position"
+    },
+    "Bottom Left Quarter" : {
+      "comment" : "Preview action button"
+    },
+    "Bottom Right Quarter" : {
+      "comment" : "Preview action button"
+    },
+    "Bottom Trailing" : {
+      "comment" : "Preview control position\nPreview element position"
+    },
+    "Bring to Current Space" : {
+      "comment" : "Preview action button"
+    },
+    "Browse" : {
+      "comment" : "Section header for browsing menu bar categories"
+    },
+    "Browse Commands" : {
+      "comment" : "Action to browse app menu bar commands"
+    },
+    "Browser" : {
+      "comment" : "Label for Chromium browser picker"
+    },
+    "Browser Profile" : {
+      "comment" : "Settings section for browser profile badges"
+    },
+    "Built-in Actions" : {
+
+    },
+    "Built-in tools on both sides of your apps" : {
+
+    },
+    "Capture window thumbnails for previews" : {
+      "comment" : "Permission description"
+    },
+    "Card" : {
+      "comment" : "Widget stack card style option"
+    },
+    "Card mode shows a background behind running apps. Focused apps are highlighted, while hidden or minimized apps appear dimmed." : {
+
+    },
+    "Change" : {
+
+    },
+    "Charge at a glance" : {
+      "comment" : "Widget tagline"
+    },
+    "Charging" : {
+      "comment" : "Battery charging compact label\nBattery charging label"
+    },
+    "Check for Updates..." : {
+      "comment" : "Menu item to check for updates"
+    },
+    "Choose a separate light or dark appearance for hover panels. Auto uses the main Color Scheme setting." : {
+      "comment" : "Panel color scheme setting description"
+    },
+    "Choose Actions" : {
+      "comment" : "Preview action dropdown button label"
+    },
+    "Choose how multi-widget stacks show their scroll position." : {
+      "comment" : "Widget stack page indicator style picker description"
+    },
+    "Choose how running apps are indicated and how icons respond to hover" : {
+
+    },
+    "Choose the system Liquid Glass material used by the dock and panels" : {
+      "comment" : "Liquid Glass flavor picker description"
+    },
+    "Choose up to five window controls" : {
+      "comment" : "Settings row description for preview window actions"
+    },
+    "Choose when widget stacks magnify" : {
+
+    },
+    "Choose whether widgets render as cards or use dock icon spacing with a dot indicator" : {
+      "comment" : "Widget stack style picker description"
+    },
+    "Choose which display the dock appears on" : {
+      "comment" : "Screen picker setting description"
+    },
+    "Choose which end of the dock stays fixed" : {
+      "comment" : "Anchored end description"
+    },
+    "City not found" : {
+      "comment" : "Weather geocoding error"
+    },
+    "Clear All (%lld)" : {
+      "comment" : "Action to clear all files from tray"
+    },
+    "Clear shortcut" : {
+      "comment" : "Clear direct profile shortcut help"
+    },
+    "Clock" : {
+      "comment" : "Widget name"
+    },
+    "Close" : {
+      "comment" : "Preview action button"
+    },
+    "Close All Windows" : {
+      "comment" : "Action to close all windows\nGesture action: close all windows"
+    },
+    "Close All Windows (%lld)" : {
+      "comment" : "Action to close all windows of selected apps"
+    },
+    "Command" : {
+      "comment" : "Keyboard initializer modifier key"
+    },
+    "Compact" : {
+      "comment" : "Now playing panel mode"
+    },
+    "Compact shows a small player, Full shows large artwork" : {
+      "comment" : "Now playing panel mode description"
+    },
+    "Conditions & forecast" : {
+      "comment" : "Widget tagline"
+    },
+    "Conflict" : {
+      "comment" : "Keyboard shortcut conflict status label"
+    },
+    "Context Menus" : {
+      "comment" : "Panels onboarding feature"
+    },
+    "Contextual surfaces for windows, folders, widgets, and app actions" : {
+
+    },
+    "Control" : {
+      "comment" : "Keyboard initializer modifier key"
+    },
+    "Control Center" : {
+      "comment" : "Liquid Glass flavor name"
+    },
+    "Copy All (%lld)" : {
+      "comment" : "Action to copy all selected files to clipboard"
+    },
+    "Copy File" : {
+      "comment" : "Action to copy file to clipboard"
+    },
+    "Copy Path" : {
+      "comment" : "Action to copy file path to clipboard"
+    },
+    "Copy URL" : {
+      "comment" : "Action to copy URL to clipboard"
+    },
+    "Could not determine the app's preferences domain." : {
+      "comment" : "Backup error: missing bundle identifier"
+    },
+    "Create a grid group from selected apps" : {
+      "comment" : "Add item type description"
+    },
+    "Create App Group" : {
+      "comment" : "Action to group selected apps"
+    },
+    "Create different dock configurations for work, personal, or creative tasks" : {
+      "comment" : "Onboarding dock profiles description"
+    },
+    "Creation Time" : {
+      "comment" : "Window preview sort order"
+    },
+    "Current main display: %@ (%@)" : {
+      "comment" : "Current main display support identifier",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Current main display: %1$@ (%2$@)"
+          }
+        }
+      }
+    },
+    "Current main display: unavailable" : {
+      "comment" : "Current main display unavailable support identifier"
+    },
+    "Current window control appearance" : {
+      "comment" : "Settings row description for preview window controls"
+    },
+    "Custom" : {
+
+    },
+    "Custom action buttons" : {
+      "comment" : "Widget tagline"
+    },
+    "Custom Icon Scale" : {
+      "comment" : "Custom icon scale slider title"
+    },
+    "Customize widgets in Settings > Widgets" : {
+      "comment" : "Widget tour hint"
+    },
+    "Customize your dock for different workflows" : {
+
+    },
+    "Cycle Windows" : {
+      "comment" : "Dock click action option"
+    },
+    "Dark" : {
+      "comment" : "Color scheme option\nPanel color scheme option"
+    },
+    "Date Modified" : {
+      "comment" : "Folder sort option"
+    },
+    "Default dock edge used unless a display override is set" : {
+      "comment" : "Global dock position setting description"
+    },
+    "Delete Stack" : {
+
+    },
+    "Descending" : {
+      "comment" : "Folder sort direction tooltip"
+    },
+    "Describe the issue here:" : {
+      "comment" : "Support email body prompt"
+    },
+    "Device Deactivated" : {
+      "comment" : "Error banner"
+    },
+    "Dimmed → Hover" : {
+      "comment" : "Preview element visibility"
+    },
+    "Disabled" : {
+      "comment" : "Keyboard shortcut disabled status label"
+    },
+    "Display the browser profile icon on window previews when multiple profiles are active" : {
+      "comment" : "Description for browser profile badge toggle"
+    },
+    "Do Nothing" : {
+      "comment" : "Single window fallback option"
+    },
+    "Dock" : {
+      "comment" : "Liquid Glass flavor name"
+    },
+    "Dock Controls" : {
+      "comment" : "Keyboard shortcut settings group"
+    },
+    "Dock Magnification" : {
+
+    },
+    "Dock Orientation" : {
+      "comment" : "Global dock position setting title"
+    },
+    "Dock Preview Order" : {
+      "comment" : "Dock preview sort order search result title\nDock preview sort order setting title"
+    },
+    "Dock Profile Order" : {
+      "comment" : "Dock profile grouped sort order"
+    },
+    "Dock Profiles" : {
+      "comment" : "Control panel section name\nDock profiles section header"
+    },
+    "Dock Profiles & AppSense" : {
+
+    },
+    "Dock profiles exported to %@. Note: exports may not be compatible with future versions." : {
+      "comment" : "Export success alert message"
+    },
+    "Dock Text Size" : {
+      "comment" : "Dock adornment text size slider title"
+    },
+    "Dock Widgets" : {
+
+    },
+    "DockDoor Pro" : {
+
+    },
+    "DockDoor Pro has no telemetry, analytics, or behavior tracking. Window and app state stays on your Mac. Location is only used for WeatherKit when you enable local weather. Network access is used for activation checks, updates, and features you choose to use such as WeatherKit and lyrics lookup." : {
+      "comment" : "Privacy onboarding note"
+    },
+    "DockDoor Pro needs system permissions to track running apps and show your dock" : {
+
+    },
+    "DockDoor Pro Support" : {
+      "comment" : "Support email subject"
+    },
+    "Don't have a key?" : {
+
+    },
+    "Don't Show in Dock" : {
+      "comment" : "Action to hide running app from dock"
+    },
+    "Done Editing Dock" : {
+      "comment" : "Button to exit dock edit mode"
+    },
+    "Dot" : {
+      "comment" : "Widget stack dot style option"
+    },
+    "Dots" : {
+      "comment" : "Widget stack page indicator dots style option"
+    },
+    "Double" : {
+
+    },
+    "Double-check your key and try again" : {
+      "comment" : "Error banner"
+    },
+    "Drag files to delete" : {
+      "comment" : "Widget tagline"
+    },
+    "Drag to reorder sections in the Control Center. Remove a section to hide it from the panel." : {
+      "comment" : "Section order settings note"
+    },
+    "Drop files here" : {
+      "comment" : "File tray empty state hint"
+    },
+    "Edit" : {
+
+    },
+    "Email %@ for help with setup, activation, or DockDoor Pro issues. Include your activation key in the email; support may not be guaranteed without it." : {
+      "comment" : "Support settings note"
+    },
+    "Email support if you need help with setup, activation, or a DockDoor Pro issue." : {
+      "comment" : "Support onboarding subtitle"
+    },
+    "Empty" : {
+      "comment" : "Action button label\nEmpty trash button"
+    },
+    "Empty folder" : {
+      "comment" : "Folder fan-out empty state"
+    },
+    "Empty Trash" : {
+      "comment" : "Action to empty the Trash\nEmpty trash confirmation button"
+    },
+    "Empty Trash?" : {
+      "comment" : "Empty trash confirmation title"
+    },
+    "Enabled Actions" : {
+      "comment" : "Settings row title for choosing preview window actions"
+    },
+    "Enhanced Running Indicators" : {
+
+    },
+    "Enter Full Screen" : {
+      "comment" : "Preview action button"
+    },
+    "Enter your key" : {
+
+    },
+    "Exit Full Screen" : {
+      "comment" : "Preview action button"
+    },
+    "Experimental" : {
+      "comment" : "Liquid Glass flavor name"
+    },
+    "Export Failed" : {
+      "comment" : "Export error alert title\nSettings backup export error alert title"
+    },
+    "Export Successful" : {
+      "comment" : "Export success alert title\nSettings backup export success alert title"
+    },
+    "Fast Tap" : {
+      "comment" : "Window switcher preview timing"
+    },
+    "Feels like %@" : {
+      "comment" : "Weather panel feels-like temperature"
+    },
+    "File" : {
+      "comment" : "Add item type"
+    },
+    "File Tray" : {
+      "comment" : "Action button label\nFile tray widget label\nFile tray widget tooltip\nWidget name"
+    },
+    "File Tray (%lld)" : {
+      "comment" : "File tray widget tooltip with count"
+    },
+    "Fill Bottom Half" : {
+      "comment" : "Preview action button"
+    },
+    "Fill Left Half" : {
+      "comment" : "Preview action button"
+    },
+    "Fill Right Half" : {
+      "comment" : "Preview action button"
+    },
+    "Fill Top Half" : {
+      "comment" : "Preview action button"
+    },
+    "Filter" : {
+      "comment" : "Orientation filter label"
+    },
+    "Finding lyrics..." : {
+
+    },
+    "Fit profile and widget page scroll bars to the rounded dock container." : {
+      "comment" : "Page scroll bar sizing setting description"
+    },
+    "Fix one end of the dock to a screen position so it stays put when switching dock sets" : {
+      "comment" : "Anchor position description"
+    },
+    "Floating" : {
+      "comment" : "Dock style option"
+    },
+    "Floating centers the dock. Taskbar spans the full screen width." : {
+      "comment" : "Dock style setting description"
+    },
+    "Focus" : {
+      "comment" : "Preview action button"
+    },
+    "Focus Media" : {
+      "comment" : "Action to focus media playback from this app"
+    },
+    "Folder" : {
+      "comment" : "Add item type"
+    },
+    "Footer (Trailing)" : {
+      "comment" : "Dock pin end"
+    },
+    "Force" : {
+      "comment" : "Force quit all button\nForce quit button"
+    },
+    "Force Quit" : {
+      "comment" : "Gesture action: force quit app\nPreview action button"
+    },
+    "Full" : {
+      "comment" : "Haptic intensity option\nNow playing panel mode"
+    },
+    "Fullscreen" : {
+      "comment" : "Preview action button"
+    },
+    "Get" : {
+      "comment" : "Marketplace install button"
+    },
+    "Glass Flavor" : {
+      "comment" : "Liquid Glass flavor picker title"
+    },
+    "Go to the previous step" : {
+
+    },
+    "Grant Access" : {
+
+    },
+    "Granted" : {
+
+    },
+    "Grid" : {
+
+    },
+    "Grouped Controls" : {
+      "comment" : "Keyboard onboarding feature"
+    },
+    "Header (Leading)" : {
+      "comment" : "Dock pin end"
+    },
+    "Hidden" : {
+      "comment" : "Preview element visibility"
+    },
+    "Hide" : {
+      "comment" : "Action to hide app"
+    },
+    "Hide / Unhide" : {
+      "comment" : "Gesture action: toggle hide"
+    },
+    "Hide All (%lld)" : {
+      "comment" : "Action to hide all selected apps"
+    },
+    "Hide App" : {
+      "comment" : "Preview action button"
+    },
+    "Hide Application" : {
+      "comment" : "Dock click action option\nSingle window fallback option"
+    },
+    "Hide Native Dock" : {
+
+    },
+    "Hold %@ and press a letter to jump to matching dock apps. Press the same letter again to cycle matches." : {
+      "comment" : "Keyboard onboarding description"
+    },
+    "Hold %@ and press Tab to cycle every window. In confirmation mode, Return confirms and Escape cancels." : {
+      "comment" : "Keyboard onboarding description"
+    },
+    "Hold On" : {
+      "comment" : "Error banner"
+    },
+    "Horizontal" : {
+      "comment" : "Orientation filter — horizontal"
+    },
+    "Immediate" : {
+      "comment" : "Window switcher preview timing"
+    },
+    "Import" : {
+      "comment" : "Settings backup import confirm button"
+    },
+    "Import Complete" : {
+      "comment" : "Import success alert title\nSettings backup import success alert title"
+    },
+    "Import Dock Profiles" : {
+      "comment" : "Import open panel title"
+    },
+    "Import Failed" : {
+      "comment" : "Import error alert title\nSettings backup import error alert title"
+    },
+    "Import Settings" : {
+      "comment" : "Settings backup import open panel title"
+    },
+    "Imported %lld dock profile(s)." : {
+      "comment" : "Import success alert message"
+    },
+    "Importing a backup will replace all current DockDoor Pro settings and profiles. This cannot be undone." : {
+      "comment" : "Settings backup import confirmation message"
+    },
+    "Include Your Activation Key" : {
+      "comment" : "Support onboarding row title"
+    },
+    "Info" : {
+
+    },
+    "Initializer Key" : {
+      "comment" : "Keyboard onboarding feature"
+    },
+    "Inline" : {
+      "comment" : "Profile button scroll mode"
+    },
+    "Input" : {
+      "comment" : "Audio input section header\nInput device label"
+    },
+    "Inspector" : {
+      "comment" : "Liquid Glass flavor name"
+    },
+    "Install" : {
+      "comment" : "Update banner install button"
+    },
+    "Install community widgets directly from the marketplace. Widgets run natively in your dock. Widget updates may require a restart of the app to fully take effect." : {
+      "comment" : "Marketplace info note"
+    },
+    "Install from the Marketplace tab or place bundles in the widgets folder" : {
+      "comment" : "Empty installed widgets subtitle"
+    },
+    "Instant file sharing" : {
+      "comment" : "Widget tagline"
+    },
+    "Invalid key" : {
+      "comment" : "API error"
+    },
+    "Invalid Key" : {
+      "comment" : "Error banner"
+    },
+    "Invalid server response" : {
+      "comment" : "API error"
+    },
+    "Invalid server URL" : {
+      "comment" : "API error"
+    },
+    "K" : {
+
+    },
+    "Keep in Dock" : {
+      "comment" : "Action to pin app to dock"
+    },
+    "Keep Panels Magnified" : {
+
+    },
+    "Keep the hover shape while popovers are open" : {
+
+    },
+    "Keybinds" : {
+
+    },
+    "Keyboard Shortcut" : {
+      "comment" : "Dock edit activation mode"
+    },
+    "Keyboard Shortcuts" : {
+      "comment" : "Settings section for keyboard shortcut recorders"
+    },
+    "Keyboard shortcuts for controlling DockDoor Pro without reaching for the pointer" : {
+
+    },
+    "Kind" : {
+      "comment" : "Folder sort option"
+    },
+    "Layout" : {
+      "comment" : "Control panel layout settings section"
+    },
+    "Left" : {
+      "comment" : "Dock position\nNative dock position"
+    },
+    "Left Only" : {
+      "comment" : "Modifier key side"
+    },
+    "Let dock controls grow with hover" : {
+
+    },
+    "Let's get your dock set up." : {
+
+    },
+    "Letter Navigation" : {
+      "comment" : "Keyboard onboarding feature"
+    },
+    "Light" : {
+      "comment" : "Color scheme option\nHaptic intensity option\nPanel color scheme option"
+    },
+    "List" : {
+
+    },
+    "Live clock face" : {
+      "comment" : "Widget tagline"
+    },
+    "Loaded" : {
+      "comment" : "Installed widget load status"
+    },
+    "Loading..." : {
+
+    },
+    "Loading…" : {
+      "comment" : "Marketplace loading\nWeather panel loading placeholder"
+    },
+    "Local" : {
+      "comment" : "Widget source — local"
+    },
+    "Local widget bundles run unverified code. Only install bundles you built or trust." : {
+      "comment" : "Local widget security warning"
+    },
+    "Location" : {
+      "comment" : "Weather widget location setting"
+    },
+    "Location access denied" : {
+      "comment" : "Weather location error"
+    },
+    "Lock" : {
+      "comment" : "System action tooltip: lock screen"
+    },
+    "Long-press running apps to see open windows." : {
+      "comment" : "Panels onboarding toggle description"
+    },
+    "Magnification preview" : {
+
+    },
+    "Magnification Style" : {
+
+    },
+    "Magnify Profile & Settings" : {
+
+    },
+    "Main Screen Only" : {
+      "comment" : "Dock screen mode option"
+    },
+    "Manually hide or show DockDoor Pro on all screens" : {
+      "comment" : "Keyboard shortcut setting description for toggling the dock hidden state\nSettings search description for toggling the dock hidden state"
+    },
+    "Marketplace" : {
+      "comment" : "Widget source — marketplace"
+    },
+    "Max" : {
+      "comment" : "Disabled state label when preview action limit is reached"
+    },
+    "Maximize" : {
+      "comment" : "Preview action button"
+    },
+    "Medium" : {
+      "comment" : "Haptic intensity option"
+    },
+    "Menu Bar" : {
+      "comment" : "Section header for app menu bar items"
+    },
+    "Minimize" : {
+      "comment" : "Preview action button"
+    },
+    "Minimize & Restore" : {
+      "comment" : "Preview action category"
+    },
+    "Minimize All" : {
+      "comment" : "Action to minimize all windows\nGesture action: minimize all windows"
+    },
+    "Minimize All (%lld)" : {
+      "comment" : "Action to minimize all windows of selected apps"
+    },
+    "Minimize everything" : {
+      "comment" : "Widget tagline"
+    },
+    "Minimize Window" : {
+      "comment" : "Single window fallback option"
+    },
+    "Minimize Windows" : {
+      "comment" : "Dock click action option"
+    },
+    "Most dock keybinds start with this shared modifier, followed by the shortcut key." : {
+      "comment" : "Keyboard onboarding description"
+    },
+    "Move to Trash" : {
+      "comment" : "Action to move file to system Trash"
+    },
+    "Multiple Dock Profiles" : {
+      "comment" : "Onboarding dock profiles feature"
+    },
+    "Name" : {
+      "comment" : "Folder sort option"
+    },
+    "Native Dock Position" : {
+
+    },
+    "Network error: %@" : {
+      "comment" : "API error"
+    },
+    "No additional options" : {
+
+    },
+    "No apps selected" : {
+      "comment" : "No apps selected for last-window quit setting"
+    },
+    "No Connection" : {
+      "comment" : "Error banner"
+    },
+    "No items" : {
+      "comment" : "Empty pinned items"
+    },
+    "No items pinned" : {
+      "comment" : "Empty pinned items count"
+    },
+    "No lyrics available" : {
+
+    },
+    "No results" : {
+      "comment" : "Empty state when no menu commands match search"
+    },
+    "No sorting" : {
+      "comment" : "Folder sort direction tooltip"
+    },
+    "No stacks" : {
+
+    },
+    "No Widgets Installed" : {
+      "comment" : "Empty installed widgets title"
+    },
+    "No widgets match this filter" : {
+      "comment" : "Empty filter state"
+    },
+    "No widgets yet" : {
+
+    },
+    "No windows" : {
+
+    },
+    "No Windows" : {
+      "comment" : "Tooltip shown when app has no open windows"
+    },
+    "None" : {
+      "comment" : "Gesture action: no action\nNo preview actions selected"
+    },
+    "Not found" : {
+      "comment" : "Shown when no Chromium data directory is selected"
+    },
+    "Not Loaded" : {
+      "comment" : "Installed widget load status"
+    },
+    "Not Playing" : {
+      "comment" : "Now playing idle label\nNow playing placeholder"
+    },
+    "Notification Center" : {
+      "comment" : "Liquid Glass flavor name"
+    },
+    "Now" : {
+      "comment" : "Weather forecast current hour label"
+    },
+    "Now Playing" : {
+      "comment" : "Widget name"
+    },
+    "Off" : {
+      "comment" : "Dock edit activation mode\nHaptic intensity option"
+    },
+    "On" : {
+      "comment" : "Selected state label for preview action menu item"
+    },
+    "On Confirmation" : {
+
+    },
+    "On Hover" : {
+      "comment" : "Preview element visibility"
+    },
+    "On Key Release" : {
+
+    },
+    "Open" : {
+      "comment" : "Action to open file\nAction to open folder"
+    },
+    "Open %@ in System Settings" : {
+
+    },
+    "Open a URL with a custom icon" : {
+      "comment" : "Add item type description"
+    },
+    "Open All (%lld)" : {
+      "comment" : "Action to launch all items in app group\nAction to open all selected files"
+    },
+    "Open Folder" : {
+      "comment" : "Open widgets folder button"
+    },
+    "Open in Finder" : {
+      "comment" : "Folder fan-out action"
+    },
+    "Open Settings" : {
+      "comment" : "Action button label"
+    },
+    "Open Settings > Interactions > Keyboard Shortcuts, choose a shortcut group, then click a field and press the keys you want." : {
+      "comment" : "Keyboard onboarding description"
+    },
+    "Open Trash" : {
+      "comment" : "Action to open Trash in Finder"
+    },
+    "Open Tray" : {
+      "comment" : "Action to expand dock and show file tray"
+    },
+    "Open URL" : {
+      "comment" : "Action to open URL"
+    },
+    "Open With..." : {
+      "comment" : "Action to open file with app chooser"
+    },
+    "Option" : {
+      "comment" : "Keyboard initializer modifier key"
+    },
+    "Order windows in dock preview panels" : {
+      "comment" : "Dock preview sort order search result description\nDock preview sort order setting description"
+    },
+    "Order windows in the %@" : {
+      "comment" : "Window switcher sort order search result description\nWindow switcher sort order setting description"
+    },
+    "Output" : {
+      "comment" : "Audio device output sublabel\nAudio output section header"
+    },
+    "Overridden" : {
+      "comment" : "Keyboard shortcut override status label"
+    },
+    "Override the app's light or dark appearance. System follows your macOS setting." : {
+      "comment" : "Color scheme setting description"
+    },
+    "Override the system default temperature unit" : {
+      "comment" : "Weather setting description"
+    },
+    "Override: %@" : {
+      "comment" : "Display position override description"
+    },
+    "Page Indicator" : {
+      "comment" : "Widget stack page indicator style picker title"
+    },
+    "Panel" : {
+      "comment" : "Profile button scroll mode"
+    },
+    "Panel behavior can be adjusted later in Settings" : {
+      "comment" : "Onboarding footer hint"
+    },
+    "Panel Mode" : {
+      "comment" : "Now playing settings label"
+    },
+    "Panel shows a picker above the dock when scrolling. Inline changes the profile icon directly in the dock." : {
+      "comment" : "Profile button scroll mode description"
+    },
+    "Panels" : {
+
+    },
+    "Per-Display Assignment" : {
+      "comment" : "Onboarding per-display feature"
+    },
+    "Permissions" : {
+
+    },
+    "Pin an app from your Mac" : {
+      "comment" : "Add item type description"
+    },
+    "Pin on Screen" : {
+      "comment" : "Now playing context menu action"
+    },
+    "Pin the native dock to a different edge so it stays out of the way when it appears in fullscreen or Mission Control" : {
+
+    },
+    "Pin to dock" : {
+      "comment" : "Pin toggle tooltip"
+    },
+    "Pin to Lock Screen" : {
+      "comment" : "Now playing context menu action"
+    },
+    "Pinned Actions (%lld/%lld)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Pinned Actions (%1$lld/%2$lld)"
+          }
+        }
+      }
+    },
+    "Pinned Items" : {
+      "comment" : "Pinned items sheet title"
+    },
+    "Place multiple widgets in one slot. Scroll to cycle between them." : {
+
+    },
+    "Please restart the application" : {
+      "comment" : "Error"
+    },
+    "Please try again in a moment" : {
+      "comment" : "API error"
+    },
+    "Power" : {
+      "comment" : "Control panel section name"
+    },
+    "Power Off" : {
+      "comment" : "System action tooltip: shut down computer"
+    },
+    "Press your Edit Dock shortcut to edit the dock. Drag apps, folders, files, URLs, or running apps onto the dock to pin them to the active profile. In edit mode, long-press a pinned icon to reorder it, then click the checkmark when finished." : {
+      "comment" : "Dock profile edit mode instruction note"
+    },
+    "Preview" : {
+      "comment" : "Settings row title for preview window controls"
+    },
+    "Profile Data" : {
+      "comment" : "Label for browser profile data directory picker"
+    },
+    "Profile Page Indicator" : {
+      "comment" : "Profile page indicator setting"
+    },
+    "Profile Scroll Mode" : {
+      "comment" : "Profile button scroll mode setting"
+    },
+    "Purchase" : {
+
+    },
+    "Quick access to any folder" : {
+      "comment" : "Add item type description"
+    },
+    "Quick Actions" : {
+      "comment" : "Control panel quick actions settings section\nWidget name"
+    },
+    "Quick file staging" : {
+      "comment" : "Widget tagline"
+    },
+    "Quit" : {
+      "comment" : "Action to quit app\nGesture action: quit app\nQuit confirmation button"
+    },
+    "Quit %@?" : {
+      "comment" : "Quit confirmation title"
+    },
+    "Quit All (%lld)" : {
+      "comment" : "Action to quit all selected apps"
+    },
+    "Quit App" : {
+      "comment" : "Action button label\nPreview action button"
+    },
+    "Quit DockDoor Pro" : {
+      "comment" : "Menu item to quit"
+    },
+    "Re-enable the native dock when DockDoor Pro exits" : {
+
+    },
+    "Recent Commands" : {
+      "comment" : "Section header for recently used menu commands"
+    },
+    "Recently Used" : {
+      "comment" : "Window preview sort order"
+    },
+    "Record a shortcut to enable this direct profile switch, or remove this row." : {
+      "comment" : "Direct profile shortcut disabled help"
+    },
+    "Reduce the opacity of icons whose windows are all minimized or hidden." : {
+      "comment" : "Dim minimized icons setting description"
+    },
+    "Refresh" : {
+      "comment" : "Marketplace refresh button"
+    },
+    "Regular" : {
+      "comment" : "Liquid Glass flavor name"
+    },
+    "Regular keeps the magnification focused under the pointer." : {
+      "comment" : "Regular magnification style description"
+    },
+    "Relaunch" : {
+      "comment" : "Action to quit and relaunch app\nGesture action: quit and relaunch app"
+    },
+    "remaining" : {
+      "comment" : "Battery time remaining label"
+    },
+    "Remove" : {
+      "comment" : "Confirm removal button"
+    },
+    "Remove All" : {
+      "comment" : "Confirm remove all button\nConfirm remove all dialog title"
+    },
+    "Remove All (%lld)" : {
+      "comment" : "Action to remove all selected files from tray"
+    },
+    "Remove Direct Profile Shortcut" : {
+      "comment" : "Remove direct profile shortcut accessibility label"
+    },
+    "Remove from Dock" : {
+      "comment" : "Action to remove app group from dock\nAction to remove item from dock\nAction to unpin app from dock"
+    },
+    "Remove from Group" : {
+      "comment" : "Action to remove item from app group"
+    },
+    "Remove from Tray" : {
+      "comment" : "Action to remove file from tray\nConfirm removal dialog title"
+    },
+    "Remove shortcut row" : {
+      "comment" : "Remove direct profile shortcut help"
+    },
+    "Remove Widget" : {
+      "comment" : "Tooltip for remove widget"
+    },
+    "Replace All Settings?" : {
+      "comment" : "Settings backup import confirmation title"
+    },
+    "Replace the system dock with DockDoor Pro" : {
+
+    },
+    "Reset" : {
+
+    },
+    "Reset Shortcut to Default" : {
+      "comment" : "Reset keyboard shortcut button accessibility label"
+    },
+    "Reset to default" : {
+      "comment" : "Reset keyboard shortcut button help"
+    },
+    "Response verification failed" : {
+      "comment" : "API error"
+    },
+    "Restart" : {
+      "comment" : "Menu item to restart the app\nRestart confirmation button\nSystem action tooltip: restart computer\nSystem action: restart"
+    },
+    "Restart %@?" : {
+      "comment" : "Restart confirmation title"
+    },
+    "Restart App" : {
+      "comment" : "Action button label"
+    },
+    "Restart?" : {
+      "comment" : "Restart confirmation title"
+    },
+    "Restore" : {
+      "comment" : "Preview action button"
+    },
+    "Restore All" : {
+      "comment" : "Action to restore all minimized windows"
+    },
+    "Restore Native Dock on Quit" : {
+
+    },
+    "Restored %lld settings and %lld profile(s)." : {
+      "comment" : "Settings backup import success message",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Restored %1$lld settings and %2$lld profile(s)."
+          }
+        }
+      }
+    },
+    "Results" : {
+      "comment" : "Section header for search results"
+    },
+    "Retry" : {
+      "comment" : "Marketplace retry button"
+    },
+    "Reverse Dock Preview Order" : {
+      "comment" : "Reverse dock preview sort order search result title\nReverse dock preview sort order setting title"
+    },
+    "Reverse Switcher Order" : {
+      "comment" : "Reverse window switcher sort order search result title\nReverse window switcher sort order setting title"
+    },
+    "Right" : {
+      "comment" : "Dock position\nNative dock position"
+    },
+    "Right Only" : {
+      "comment" : "Modifier key side"
+    },
+    "Right-click an app for actions like pin, quit, hide, and per-window controls." : {
+      "comment" : "Panels onboarding description"
+    },
+    "Running App Indicator" : {
+
+    },
+    "Scale" : {
+      "comment" : "Magnification style"
+    },
+    "Screen Recording" : {
+      "comment" : "Permission name"
+    },
+    "Screen Under Mouse" : {
+      "comment" : "Direct profile shortcut target"
+    },
+    "Search" : {
+      "comment" : "Keyboard shortcut label for search"
+    },
+    "Search city..." : {
+      "comment" : "Weather city search placeholder"
+    },
+    "Search commands" : {
+      "comment" : "Placeholder for menu command search field"
+    },
+    "Select" : {
+      "comment" : "Open panel button"
+    },
+    "Select a dock profile" : {
+
+    },
+    "Select a file to add to your dock" : {
+      "comment" : "Open panel message"
+    },
+    "Select a folder to add to your dock" : {
+      "comment" : "Open panel message"
+    },
+    "Select a shortcut..." : {
+
+    },
+    "Select a slot to edit" : {
+
+    },
+    "Select an app to view details" : {
+
+    },
+    "Select an app, file, or folder" : {
+      "comment" : "Open panel message"
+    },
+    "Select an application" : {
+      "comment" : "Open panel message"
+    },
+    "Select an item to configure" : {
+      "comment" : "No item selected placeholder"
+    },
+    "Select an item to view details" : {
+
+    },
+    "Select applications" : {
+      "comment" : "Open panel message for multi-select"
+    },
+    "Select your Chromium-based browser" : {
+      "comment" : "Placeholder for browser selection"
+    },
+    "Selected Apps" : {
+      "comment" : "Last window quit scope option"
+    },
+    "Separator" : {
+      "comment" : "Add item type"
+    },
+    "Separators have no settings" : {
+
+    },
+    "Server is temporarily unavailable" : {
+      "comment" : "API error"
+    },
+    "Servers Are Napping" : {
+      "comment" : "Error banner"
+    },
+    "Set as main widget" : {
+      "comment" : "Tooltip for primary widget star button"
+    },
+    "Set Up Your Dock" : {
+
+    },
+    "Settings" : {
+      "comment" : "Dock settings gear tooltip"
+    },
+    "Settings backed up to %@." : {
+      "comment" : "Settings backup export success alert message"
+    },
+    "Settings..." : {
+      "comment" : "Menu item to open settings"
+    },
+    "Setup Complete" : {
+      "comment" : "Onboarding completion"
+    },
+    "Shift" : {
+      "comment" : "Keyboard initializer modifier key"
+    },
+    "Shortcut fields show the full key combination. To change one shortcut, click its field and press the keys you want. Initializer-based shortcuts marked Overridden ignore global initializer changes until they match again. The Edit Dock shortcut is independent." : {
+      "comment" : "Keyboard shortcut recording guidance"
+    },
+    "Show a gear icon in the dock when the settings window is open." : {
+      "comment" : "Settings gear toggle description"
+    },
+    "Show App" : {
+      "comment" : "Preview action button"
+    },
+    "Show Contents" : {
+      "comment" : "Action to show app group contents\nAction to show folder contents"
+    },
+    "Show Desktop" : {
+      "comment" : "Show Desktop widget label\nWidget name"
+    },
+    "Show dock preview windows in the opposite order" : {
+      "comment" : "Reverse dock preview sort order search result description\nReverse dock preview sort order setting description"
+    },
+    "Show Exposé" : {
+      "comment" : "Action to show App Exposé\nGesture action: trigger App Exposé"
+    },
+    "Show in Finder" : {
+      "comment" : "Action to reveal app in Finder\nAction to reveal in Finder\nGesture action: reveal app in Finder\nTooltip for reveal widget in Finder"
+    },
+    "Show per-app window counts as dots beneath each icon. Requires Accessibility permission." : {
+
+    },
+    "Show Profile Badge" : {
+      "comment" : "Toggle to show browser profile icon on window previews"
+    },
+    "Show switcher windows in the opposite order" : {
+      "comment" : "Reverse window switcher sort order search result description\nReverse window switcher sort order setting description"
+    },
+    "Show the page indicator on the inline profile picker." : {
+      "comment" : "Profile page indicator setting description"
+    },
+    "Show the profile button in the dock. You can also long-press a control panel widget to open the drawer instead." : {
+      "comment" : "Show profile button setting description"
+    },
+    "Show widgets that support a specific layout" : {
+      "comment" : "Orientation filter description"
+    },
+    "Show Window Previews" : {
+      "comment" : "Gesture action: show window previews"
+    },
+    "Shut Down" : {
+      "comment" : "Shut down confirmation button\nSystem action: shut down"
+    },
+    "Shut Down?" : {
+      "comment" : "Shut down confirmation title"
+    },
+    "Sidebar" : {
+      "comment" : "Liquid Glass flavor name"
+    },
+    "Single" : {
+
+    },
+    "Size" : {
+      "comment" : "Folder sort option\nPreview action category"
+    },
+    "Size Bars Inside Dock Container" : {
+      "comment" : "Profile and widget page scroll bar sizing setting"
+    },
+    "Sleep" : {
+      "comment" : "System action: sleep/lock"
+    },
+    "Some features are limited until you activate" : {
+      "comment" : "Onboarding completion"
+    },
+    "Something else was updating — give it a sec" : {
+      "comment" : "Error banner"
+    },
+    "Sort By" : {
+      "comment" : "Sort options header"
+    },
+    "Sort Order" : {
+      "comment" : "Drawer apps sort order picker"
+    },
+    "Sort: %@ ↑" : {
+      "comment" : "Folder sort tooltip ascending"
+    },
+    "Sort: %@ ↓" : {
+      "comment" : "Folder sort tooltip descending"
+    },
+    "Sort: off" : {
+      "comment" : "Folder sort tooltip when disabled"
+    },
+    "Spacer" : {
+      "comment" : "Add item type"
+    },
+    "Spacers have no settings" : {
+
+    },
+    "Stack Size" : {
+      "comment" : "Widget stack sizing picker label"
+    },
+    "Step %lld of %lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Step %1$lld of %2$lld"
+          }
+        }
+      }
+    },
+    "Support" : {
+
+    },
+    "Support Email" : {
+      "comment" : "Support onboarding row title"
+    },
+    "Support requests must include your activation key in the email. Without it, support may not be guaranteed." : {
+      "comment" : "Support onboarding row description"
+    },
+    "Switch audio output" : {
+      "comment" : "Widget tagline"
+    },
+    "Switcher Order" : {
+      "comment" : "Window switcher sort order search result title\nWindow switcher sort order setting title"
+    },
+    "System" : {
+      "comment" : "Color scheme option\nControl panel section name\nSystem actions section header"
+    },
+    "System Default" : {
+      "comment" : "Clock date format option\nWeather temp unit"
+    },
+    "Taskbar" : {
+      "comment" : "Dock style option"
+    },
+    "Temperature Unit" : {
+      "comment" : "Weather widget setting"
+    },
+    "The selected file is not a valid DockDoor Pro backup." : {
+      "comment" : "Backup import error: malformed file"
+    },
+    "The server is temporarily unavailable — try again shortly" : {
+      "comment" : "Error banner"
+    },
+    "The server response couldn't be verified" : {
+      "comment" : "Error banner"
+    },
+    "This device has been permanently deactivated" : {
+      "comment" : "API error"
+    },
+    "This device has been permanently removed" : {
+      "comment" : "Error banner"
+    },
+    "This feature requires activation" : {
+      "comment" : "Error"
+    },
+    "This key is already used by navigation, confirm, cancel, or another preview action." : {
+      "comment" : "Keyboard shortcut conflict help"
+    },
+    "This shortcut differs from the standard Edit Dock keybind." : {
+      "comment" : "Edit Dock shortcut overridden help"
+    },
+    "This shortcut is disabled. Reset it to restore the default keybind." : {
+      "comment" : "Keyboard shortcut disabled help"
+    },
+    "This shortcut uses its own initializer key and will not follow the global Initializer Key until they match again." : {
+      "comment" : "Keyboard shortcut overridden help"
+    },
+    "Tiling" : {
+      "comment" : "Preview action category"
+    },
+    "Today" : {
+      "comment" : "Weather forecast today label"
+    },
+    "Toggle Dock Hidden" : {
+      "comment" : "Keyboard shortcut setting title for manually hiding or showing the dock\nSettings search title for manually hiding or showing the dock"
+    },
+    "Toggle Hidden" : {
+      "comment" : "Preview action button"
+    },
+    "Toggle Minimize" : {
+      "comment" : "Preview action button"
+    },
+    "Toggle which actions appear in the Quick Actions widget on the dock" : {
+
+    },
+    "Top" : {
+      "comment" : "Dock position"
+    },
+    "Top Center" : {
+      "comment" : "Preview element position"
+    },
+    "Top Leading" : {
+      "comment" : "Preview control position\nPreview element position"
+    },
+    "Top Left Quarter" : {
+      "comment" : "Preview action button"
+    },
+    "Top Right Quarter" : {
+      "comment" : "Preview action button"
+    },
+    "Top Trailing" : {
+      "comment" : "Preview control position\nPreview element position"
+    },
+    "Track running apps, focus windows, and detect window state" : {
+      "comment" : "Permission description"
+    },
+    "Trash" : {
+      "comment" : "Trash widget label\nWidget name"
+    },
+    "Trash All" : {
+      "comment" : "Confirm trash all button\nConfirm trash all dialog title"
+    },
+    "Trash All (%lld)" : {
+      "comment" : "Action to move all selected files to system Trash"
+    },
+    "Ungroup" : {
+      "comment" : "Action to ungroup items back into the dock"
+    },
+    "Unhide" : {
+      "comment" : "Action to unhide app"
+    },
+    "Unpin from dock" : {
+      "comment" : "Pin toggle tooltip"
+    },
+    "Unpin from Lock Screen" : {
+      "comment" : "Now playing context menu action"
+    },
+    "Unpin from Screen" : {
+      "comment" : "Now playing context menu action"
+    },
+    "until full" : {
+      "comment" : "Battery time remaining label"
+    },
+    "Untitled Window" : {
+      "comment" : "Fallback title for a window with no title"
+    },
+    "Update" : {
+      "comment" : "Marketplace update button"
+    },
+    "Update v%@" : {
+      "comment" : "Update banner title with version"
+    },
+    "Use %@Tab to cycle windows across all apps." : {
+      "comment" : "Panels onboarding toggle description"
+    },
+    "Use a slim profile button that takes less space in the dock." : {
+      "comment" : "Compact profile button setting description"
+    },
+    "Use Current Location" : {
+      "comment" : "Weather widget location toggle"
+    },
+    "Use Global" : {
+      "comment" : "Per-display dock position global fallback option"
+    },
+    "Use the Edit button below to manage pinned items. In edit mode, drag apps, folders, files, URLs, or running apps onto the dock to pin them to the active profile." : {
+      "comment" : "Dock profile edit mode instruction note"
+    },
+    "Use your device's location for weather data" : {
+      "comment" : "Weather current location description"
+    },
+    "Using global %@" : {
+      "comment" : "Display position global fallback description"
+    },
+    "Verification Failed" : {
+      "comment" : "Error banner"
+    },
+    "Version %@ (%@)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Version %1$@ (%2$@)"
+          }
+        }
+      }
+    },
+    "Vertical" : {
+      "comment" : "Orientation filter — vertical"
+    },
+    "Wave" : {
+      "comment" : "Magnification style"
+    },
+    "Wave adds a subtle ripple through neighboring icons." : {
+      "comment" : "Wave magnification style description"
+    },
+    "Weather" : {
+      "comment" : "Weather widget name\nWidget name"
+    },
+    "Web Link" : {
+      "comment" : "Add item type"
+    },
+    "When the dock is on the left or right, scrolling and gestures use horizontal (left/right) input instead of vertical." : {
+      "comment" : "Vertical dock scroll orientation note"
+    },
+    "Where to Edit" : {
+      "comment" : "Keyboard onboarding feature"
+    },
+    "Widget Panels" : {
+      "comment" : "Panels onboarding feature"
+    },
+    "Widget Stacking" : {
+
+    },
+    "Widget Style" : {
+      "comment" : "Widget stack style picker title"
+    },
+    "Widgets" : {
+      "comment" : "Liquid Glass flavor name"
+    },
+    "Widgets can open richer controls, including Now Playing playback controls and dock profile tools." : {
+      "comment" : "Panels onboarding description"
+    },
+    "Window" : {
+      "comment" : "Preview action category"
+    },
+    "Window Controls" : {
+      "comment" : "Preview action picker popover title"
+    },
+    "Window Previews" : {
+      "comment" : "Panels onboarding toggle title\nWindow previews settings section"
+    },
+    "Window Switching" : {
+      "comment" : "Keyboard shortcut settings group"
+    },
+    "Window switching and dock controls are grouped separately so the keybinds page stays focused as you customize it." : {
+      "comment" : "Keyboard onboarding description"
+    },
+    "Window Title" : {
+      "comment" : "Window preview sort order"
+    },
+    "Windows" : {
+      "comment" : "Section header for per-window actions"
+    },
+    "Without Screen Recording, window previews will show titles but no thumbnail images." : {
+
+    },
+    "You can change keybinds later in Settings" : {
+      "comment" : "Onboarding footer hint"
+    },
+    "You can edit your dock anytime in Settings, or press your Edit Dock shortcut to enter edit mode." : {
+      "comment" : "Dock setup onboarding edit mode hint"
+    },
+    "You can edit your dock anytime in Settings." : {
+      "comment" : "Dock setup onboarding edit mode hint"
+    },
+    "You're All Set!" : {
+      "comment" : "Onboarding completion"
+    }
+  },
+  "version" : "1.2"
+}
