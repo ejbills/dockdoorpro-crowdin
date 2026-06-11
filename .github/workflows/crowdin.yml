@@ -19,7 +19,7 @@ jobs:
           GH_TOKEN: ${{ secrets.DOCKDOORPRO_SYNC_TOKEN }}
         run: |
           git clone \
-            "https://x-access-token:${GH_TOKEN}@github.com/ejbills/DockDoorPro.git" \
+            "https://x-access-token:${GH_TOKEN}@github.com/kepler-cafe/DockDoorPro.git" \
             "$RUNNER_TEMP/DockDoorPro"
 
       - name: Verify DockDoorPro token permissions
@@ -27,7 +27,7 @@ jobs:
           GH_TOKEN: ${{ secrets.DOCKDOORPRO_SYNC_TOKEN }}
         run: |
           can_push="$(
-            gh api repos/ejbills/DockDoorPro \
+            gh api repos/kepler-cafe/DockDoorPro \
               --jq '.permissions.push // false'
           )"
 
@@ -111,7 +111,7 @@ jobs:
 
           existing_pr="$(
             gh pr list \
-              --repo ejbills/DockDoorPro \
+              --repo kepler-cafe/DockDoorPro \
               --head "$branch" \
               --state open \
               --json number \
@@ -120,14 +120,14 @@ jobs:
 
           if [[ -n "$existing_pr" ]]; then
             gh pr edit "$existing_pr" \
-              --repo ejbills/DockDoorPro \
+              --repo kepler-cafe/DockDoorPro \
               --title "$title" \
               --body "$body"
           else
             gh pr create \
-              --repo ejbills/DockDoorPro \
+              --repo kepler-cafe/DockDoorPro \
               --base main \
-              --head "ejbills:$branch" \
+              --head "kepler-cafe:$branch" \
               --title "$title" \
               --body "$body"
           fi
