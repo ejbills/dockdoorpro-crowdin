@@ -14,6 +14,27 @@ jobs:
       - name: Checkout Crowdin repo
         uses: actions/checkout@v4
 
+      - name: Verify DockDoorPro token permissions
+        env:
+          GH_TOKEN: ${{ secrets.DOCKDOORPRO_SYNC_TOKEN }}
+        run: |
+          gh api repos/kepler-cafe/DockDoorPro \
+            --jq '"DockDoorPro token permissions: pull=\(.permissions.pull // false), push=\(.permissions.push // false)"'
+
+          can_pull="$(
+            gh api repos/kepler-cafe/DockDoorPro \
+              --jq '.permissions.pull // false'
+          )"
+          can_push="$(
+            gh api repos/kepler-cafe/DockDoorPro \
+              --jq '.permissions.push // false'
+          )"
+
+          if [[ "$can_pull" != "true" || "$can_push" != "true" ]]; then
+            echo "::error::DOCKDOORPRO_SYNC_TOKEN must have Contents: Read and write on kepler-cafe/DockDoorPro. Pull Requests: Read and write alone is not enough."
+            exit 1
+          fi
+
       - name: Clone DockDoorPro repo
         env:
           GH_TOKEN: ${{ secrets.DOCKDOORPRO_SYNC_TOKEN }}
@@ -21,20 +42,6 @@ jobs:
           git clone \
             "https://x-access-token:${GH_TOKEN}@github.com/kepler-cafe/DockDoorPro.git" \
             "$RUNNER_TEMP/DockDoorPro"
-
-      - name: Verify DockDoorPro token permissions
-        env:
-          GH_TOKEN: ${{ secrets.DOCKDOORPRO_SYNC_TOKEN }}
-        run: |
-          can_push="$(
-            gh api repos/kepler-cafe/DockDoorPro \
-              --jq '.permissions.push // false'
-          )"
-
-          if [[ "$can_push" != "true" ]]; then
-            echo "::error::DOCKDOORPRO_SYNC_TOKEN can read DockDoorPro but cannot push branches. Give the token Contents: Read and write on ejbills/DockDoorPro. Pull Requests: Read and write alone is not enough."
-            exit 1
-          fi
 
       - name: Pull latest Localizable from DockDoorPro
         run: cp "$RUNNER_TEMP/DockDoorPro/Localizable.xcstrings" Localizable.xcstrings
