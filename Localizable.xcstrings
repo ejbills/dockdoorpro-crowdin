@@ -6318,7 +6318,7 @@
       }
     },
     "About" : {
-      "comment" : "Settings sidebar group\nSettings tab title",
+      "comment" : "Settings search section\nSettings sidebar group\nSettings tab title",
       "localizations" : {
         "af" : {
           "stringUnit" : {
@@ -30308,6 +30308,9 @@
         }
       }
     },
+    "Analog Clock Face" : {
+      "comment" : "Settings control title"
+    },
     "Anchor & screen margin" : {
       "comment" : "Settings control title",
       "localizations" : {
@@ -34247,6 +34250,12 @@
           }
         }
       }
+    },
+    "App used to open folders, reveal files, and open the Trash" : {
+      "comment" : "Settings search description"
+    },
+    "App used to open folders, reveal files, and open the Trash. System Default follows the app set as your folder handler." : {
+      "comment" : "Settings control description"
     },
     "App Visibility" : {
       "comment" : "Preview action category",
@@ -47678,6 +47687,9 @@
         }
       }
     },
+    "Bring All Windows Here" : {
+      "comment" : "Action to move all app windows to the current desktop and display"
+    },
     "Bring to Current Space" : {
       "comment" : "Preview action button",
       "localizations" : {
@@ -54662,7 +54674,7 @@
       }
     },
     "Choose" : {
-      "comment" : "Settings control title",
+      "comment" : "File manager open panel confirm button\nSettings control title",
       "localizations" : {
         "af" : {
           "stringUnit" : {
@@ -55555,6 +55567,9 @@
           }
         }
       }
+    },
+    "Choose App…" : {
+
     },
     "Choose apps that quit when their last tracked window closes" : {
       "comment" : "Settings search description",
@@ -56809,6 +56824,9 @@
           }
         }
       }
+    },
+    "Choose the app that should open folders and the Trash" : {
+      "comment" : "File manager open panel message"
     },
     "Choose the current or alpha DockDoor Pro app icon" : {
       "comment" : "Settings search description",
@@ -61825,6 +61843,9 @@
           }
         }
       }
+    },
+    "Choose which Quick Actions appear in the Control Center strip, separate from the dock's Quick Actions widget" : {
+      "comment" : "Settings search description"
     },
     "Choose which shortcut group to edit" : {
       "comment" : "Settings control description",
@@ -73290,6 +73311,9 @@
         }
       }
     },
+    "Copy Link" : {
+      "comment" : "Action to copy web link to clipboard"
+    },
     "Copy Path" : {
       "comment" : "Action to copy file path to clipboard",
       "localizations" : {
@@ -77053,6 +77077,9 @@
           }
         }
       }
+    },
+    "Current Desktop" : {
+      "comment" : "Marks the desktop space currently shown"
     },
     "Current main display: %@ (%@)" : {
       "comment" : "Current main display support identifier",
@@ -84761,6 +84788,9 @@
           }
         }
       }
+    },
+    "Desktop %lld" : {
+      "comment" : "A numbered desktop space"
     },
     "Desktop Icon" : {
       "comment" : "Settings control title",
@@ -114858,6 +114888,9 @@
         }
       }
     },
+    "File Manager" : {
+      "comment" : "Settings search section\nSettings section title"
+    },
     "File Thumbnails" : {
       "comment" : "Settings control title\nSettings search title",
       "localizations" : {
@@ -117008,7 +117041,7 @@
       }
     },
     "Finder" : {
-      "comment" : "Finder app name",
+      "comment" : "Default macOS file manager name\nFile manager picker option\nFinder app name",
       "localizations" : {
         "af" : {
           "stringUnit" : {
@@ -120943,6 +120976,9 @@
           }
         }
       }
+    },
+    "Folders and the Trash will open in this app" : {
+      "comment" : "Custom file manager row description"
     },
     "Follows the active profile" : {
       "comment" : "Per-display profile description when none is pinned",
@@ -148523,6 +148559,9 @@
         }
       }
     },
+    "Include this action in the Control Center's Quick Actions strip. Turn off for actions you only want on the dock's Quick Actions widget." : {
+      "comment" : "Settings control description"
+    },
     "Include window-less apps, keep grouped apps visible while running, choose the order, and add a separator." : {
       "comment" : "Settings control description",
       "localizations" : {
@@ -160882,6 +160921,9 @@
           }
         }
       }
+    },
+    "Legal" : {
+      "comment" : "Settings control title\nSettings search title"
     },
     "Let dock controls grow with hover" : {
       "comment" : "Onboarding toggle description",
@@ -173421,6 +173463,9 @@
         }
       }
     },
+    "Menu Commands" : {
+      "comment" : "Settings search section\nSettings section title"
+    },
     "Middle Click to Quit" : {
       "comment" : "Settings control title\nSettings search title",
       "localizations" : {
@@ -177541,6 +177586,9 @@
         }
       }
     },
+    "Move Windows to Desktop" : {
+      "comment" : "Action to move all app windows to a chosen desktop space\nSection header for moving app windows to a desktop space"
+    },
     "Multiple Dock Profiles" : {
       "comment" : "Onboarding dock profiles feature",
       "extractionState" : "stale",
@@ -180585,6 +180633,9 @@
           }
         }
       }
+    },
+    "No App Selected" : {
+      "comment" : "Custom file manager row title when none is chosen"
     },
     "No apps" : {
       "comment" : "Empty drawer apps title",
@@ -193294,8 +193345,15 @@
         }
       }
     },
+    "Open Folders With" : {
+      "comment" : "Settings control title\nSettings search title"
+    },
+    "Open in %@" : {
+      "comment" : "Folder fan-out action"
+    },
     "Open in Finder" : {
       "comment" : "Folder fan-out action",
+      "extractionState" : "stale",
       "localizations" : {
         "af" : {
           "stringUnit" : {
@@ -193472,6 +193530,9 @@
           }
         }
       }
+    },
+    "Open Link" : {
+      "comment" : "Action to open web link"
     },
     "Open Settings" : {
       "comment" : "Action button label\nQuick Action option\nQuick Action preview name",
@@ -197055,6 +197116,9 @@
           }
         }
       }
+    },
+    "Other App…" : {
+      "comment" : "File manager picker option"
     },
     "Outline drawn around the dock background." : {
       "comment" : "Border preset description",
@@ -204943,6 +205007,9 @@
         }
       }
     },
+    "Pin Command" : {
+      "comment" : "Tooltip for pinning a menu command"
+    },
     "Pin folders beside the file tray to show their contents and receive dropped files" : {
       "comment" : "Settings search description",
       "localizations" : {
@@ -207633,6 +207700,9 @@
           }
         }
       }
+    },
+    "Pinned Commands" : {
+      "comment" : "Section header for pinned menu commands"
     },
     "Pinned Folder Zone Size" : {
       "comment" : "Settings search title",
@@ -252954,8 +253024,14 @@
         }
       }
     },
+    "Show in %@" : {
+      "comment" : "Action to reveal app in the file manager\nAction to reveal in the file manager\nFile tray click action option\nGesture action: reveal app in the file manager"
+    },
+    "Show in Control Center" : {
+      "comment" : "Settings control title\nSettings search title"
+    },
     "Show in Finder" : {
-      "comment" : "Action to reveal app in Finder\nAction to reveal in Finder\nGesture action: reveal app in Finder\nTooltip for reveal widget in Finder",
+      "comment" : "Tooltip for reveal widget in Finder",
       "localizations" : {
         "af" : {
           "stringUnit" : {
@@ -253132,6 +253208,9 @@
           }
         }
       }
+    },
+    "Show Keyboard Shortcuts" : {
+      "comment" : "Settings control title\nSettings search title"
     },
     "Show live window thumbnails on hover" : {
       "comment" : "Settings search description",
@@ -253312,6 +253391,9 @@
           }
         }
       }
+    },
+    "Show Menu Names" : {
+      "comment" : "Settings control title\nSettings search title"
     },
     "Show Minimized Windows From Menu Bar Apps" : {
       "comment" : "Settings control title\nSettings search title",
@@ -256897,6 +256979,9 @@
         }
       }
     },
+    "Show shortcut hints next to menu commands in dock panels" : {
+      "comment" : "Settings control description\nSettings search description"
+    },
     "Show switcher windows in the opposite order" : {
       "comment" : "Reverse window switcher sort order search result description\nReverse window switcher sort order setting description",
       "localizations" : {
@@ -257075,6 +257160,9 @@
           }
         }
       }
+    },
+    "Show the analog clock face in wider widget sizes" : {
+      "comment" : "Settings control description"
     },
     "Show the app icon and name above the Glance window previews" : {
       "comment" : "Settings search description",
@@ -259941,6 +260029,9 @@
           }
         }
       }
+    },
+    "Show the source menu (File, Edit) next to recent and pinned commands" : {
+      "comment" : "Settings control description\nSettings search description"
     },
     "Show this action on window previews" : {
       "comment" : "Settings search description",
@@ -281985,7 +282076,7 @@
       }
     },
     "System Default" : {
-      "comment" : "Clock date format option\nWeather temp unit",
+      "comment" : "Clock date format option\nFile manager picker option\nWeather temp unit",
       "localizations" : {
         "af" : {
           "stringUnit" : {
@@ -297760,6 +297851,9 @@
         }
       }
     },
+    "Unpin Command" : {
+      "comment" : "Tooltip for unpinning a menu command"
+    },
     "Unpin from dock" : {
       "comment" : "Pin toggle tooltip",
       "localizations" : {
@@ -305648,6 +305742,9 @@
           }
         }
       }
+    },
+    "View the DockDoor Pro legal, privacy, and terms information" : {
+      "comment" : "Settings search description"
     },
     "Visibility" : {
       "comment" : "Settings control title",
