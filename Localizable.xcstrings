@@ -29486,7 +29486,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zeitverhalten &amp; Empfindlichkeit anpassen"
+            "value" : "Zeitverhalten & Empfindlichkeit anpassen"
           }
         },
         "el" : {
@@ -46863,7 +46863,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Verankerung &amp; Bildschirmrand"
+            "value" : "Verankerung & Bildschirmrand"
           }
         },
         "el" : {
@@ -54925,7 +54925,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Apps &amp; Profile"
+            "value" : "Apps & Profile"
           }
         },
         "el" : {
@@ -56337,7 +56337,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "هل أنت متأكد من أنك تريد إعادة تشغيل %s؟"
+            "value" : "هل أنت متأكد من أنك تريد إعادة تشغيل %@؟"
           }
         },
         "ca" : {
@@ -56564,7 +56564,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Voulez-vous vraiment redémarrer votre Mac %@?"
+            "value" : "Voulez-vous vraiment redémarrer votre Mac?"
           }
         },
         "he" : {
@@ -113680,7 +113680,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wetterlage &amp; Vorhersage"
+            "value" : "Wetterlage & Vorhersage"
           }
         },
         "el" : {
@@ -125145,7 +125145,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Erstellen Sie wiederverwendbare Widget-Stapel und fügen Sie sie anschließend über Apps &amp; Profile zu Dock-Profilen hinzu."
+            "value" : "Erstellen Sie wiederverwendbare Widget-Stapel und fügen Sie sie anschließend über Apps & Profile zu Dock-Profilen hinzu."
           }
         },
         "el" : {
@@ -130349,7 +130349,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Widgets unter Einstellungen &gt; Widgets anpassen"
+            "value" : "Widgets unter Einstellungen > Widgets anpassen"
           }
         },
         "el" : {
@@ -186956,7 +186956,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hintergrund &amp; Panels feinabstimmen"
+            "value" : "Hintergrund & Panels feinabstimmen"
           }
         },
         "el" : {
@@ -249461,7 +249461,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Den Papierkorb ganz am Ende des Docks belassen, nach den laufenden Apps. Ein eigenes Papierkorb-Symbol unter Widgets &gt; Widget-Stapel &gt; Papierkorb festlegen."
+            "value" : "Den Papierkorb ganz am Ende des Docks belassen, nach den laufenden Apps. Ein eigenes Papierkorb-Symbol unter Widgets > Widget-Stapel > Papierkorb festlegen."
           }
         },
         "el" : {
@@ -268271,7 +268271,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "macOS fordert Sie möglicherweise auf, DockDoor Pro unter Datenschutz &amp; Sicherheit &gt; Bedienungshilfen zu erlauben."
+            "value" : "macOS fordert Sie möglicherweise auf, DockDoor Pro unter Datenschutz & Sicherheit > Bedienungshilfen zu erlauben."
           }
         },
         "el" : {
@@ -269706,7 +269706,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Profil &amp; Einstellungen vergrößern"
+            "value" : "Profil & Einstellungen vergrößern"
           }
         },
         "el" : {
@@ -304443,7 +304443,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Keine passenden Widgets für &quot;%@&quot;"
+            "value" : "Keine passenden Widgets für \"%@\""
           }
         },
         "el" : {
@@ -321277,7 +321277,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Öffnen Sie Einstellungen &gt; Kurzbefehle, klicken Sie dann in ein Kurzbefehlsfeld und drücken Sie die gewünschten Tasten."
+            "value" : "Öffnen Sie Einstellungen > Kurzbefehle, klicken Sie dann in ein Kurzbefehlsfeld und drücken Sie die gewünschten Tasten."
           }
         },
         "el" : {
@@ -346722,7 +346722,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Platzierung &amp; Ausblenden"
+            "value" : "Platzierung & Ausblenden"
           }
         },
         "el" : {
@@ -346901,7 +346901,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Platzierung &amp; Layout"
+            "value" : "Platzierung & Layout"
           }
         },
         "el" : {
@@ -349051,7 +349051,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Position &amp; Bildschirm"
+            "value" : "Position & Bildschirm"
           }
         },
         "el" : {
@@ -383990,7 +383990,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Laufende Apps &amp; minimierte Fenster"
+            "value" : "Laufende Apps & minimierte Fenster"
           }
         },
         "el" : {
@@ -474647,7 +474647,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Diese Einstellungen steuern Sie selbst. Lassen Sie das Menüleistensymbol aktiviert, bis Sie wissen, wie Sie die Einstellungen erneut öffnen, und stellen Sie das native Dock bei Bedarf unter „Platzierung &amp; Ausblenden“ wieder her."
+            "value" : "Diese Einstellungen steuern Sie selbst. Lassen Sie das Menüleistensymbol aktiviert, bis Sie wissen, wie Sie die Einstellungen erneut öffnen, und stellen Sie das native Dock bei Bedarf unter „Platzierung & Ausblenden“ wieder her."
           }
         },
         "el" : {
@@ -477333,7 +477333,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dadurch werden die angehefteten Objekte in Ihrem aktiven Profil &quot;%1$@&quot; durch %2$lld Apps aus Ihrem macOS-Dock ersetzt."
+            "value" : "Dadurch werden die angehefteten Objekte in Ihrem aktiven Profil \"%1$@\" durch %2$lld Apps aus Ihrem macOS-Dock ersetzt."
           }
         },
         "el" : {
@@ -477519,7 +477519,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dadurch werden die angehefteten Objekte in Ihrem aktiven Profil &quot;%1$@&quot; durch %2$lld Objekte aus Ihrem macOS-Dock ersetzt, einschließlich Apps, Ordnern und Dateien."
+            "value" : "Dadurch werden die angehefteten Objekte in Ihrem aktiven Profil \"%1$@\" durch %2$lld Objekte aus Ihrem macOS-Dock ersetzt, einschließlich Apps, Ordnern und Dateien."
           }
         },
         "el" : {
@@ -491855,7 +491855,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Schalten Sie das Dock pro Display ein oder aus und weisen Sie jedem Display eine eigene Bildschirmkante und ein eigenes Profil zu. &quot;Global verwenden&quot; übernimmt die obige Ausrichtung; &quot;Aktives Profil&quot; folgt dem Profil, zu dem Sie wechseln."
+            "value" : "Schalten Sie das Dock pro Display ein oder aus und weisen Sie jedem Display eine eigene Bildschirmkante und ein eigenes Profil zu. \"Global verwenden\" übernimmt die obige Ausrichtung; \"Aktives Profil\" folgt dem Profil, zu dem Sie wechseln."
           }
         },
         "el" : {
@@ -504569,7 +504569,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Über Einstellungen &gt; Einrichtung können Sie später erneut einen Einrichtungsstil anwenden."
+            "value" : "Über Einstellungen > Einrichtung können Sie später erneut einen Einrichtungsstil anwenden."
           }
         },
         "el" : {
@@ -525900,7 +525900,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Widget-Stapel sind wiederverwendbare Widget-Gruppen. Erstellen und konfigurieren Sie hier einen Stapel, öffnen Sie ihn und verwenden Sie „Zum Dock hinzufügen“, um ihn in einem Dock-Profil zu platzieren (oder fügen Sie ihn über Apps &amp; Profile &gt; Angeheftete Objekte &gt; Objekt hinzufügen &gt; Widget-Stapel hinzu)."
+            "value" : "Widget-Stapel sind wiederverwendbare Widget-Gruppen. Erstellen und konfigurieren Sie hier einen Stapel, öffnen Sie ihn und verwenden Sie „Zum Dock hinzufügen“, um ihn in einem Dock-Profil zu platzieren (oder fügen Sie ihn über Apps & Profile > Angeheftete Objekte > Objekt hinzufügen > Widget-Stapel hinzu)."
           }
         },
         "el" : {
@@ -525996,7 +525996,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Стопки виджетов — это повторно используемые группы виджетов. Создайте и настройте стопку здесь, затем откройте её и используйте «Add to Dock», чтобы разместить её в профиле дока (или добавьте её из Apps & Profiles &gt; Pinned Items &gt; Add Item &gt; Widget Stack)."
+            "value" : "Стопки виджетов — это повторно используемые группы виджетов. Создайте и настройте стопку здесь, затем откройте её и используйте «Add to Dock», чтобы разместить её в профиле дока (или добавьте её из Apps & Profiles > Pinned Items > Add Item > Widget Stack)."
           }
         },
         "sr" : {
@@ -537548,7 +537548,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ihre Widgets wurden aktualisiert, weil das Widget-System neu gestaltet wurde.\n\nWidgets wurden bisher als globale Ablagen gespeichert. Jetzt sind sie als wiederverwendbare Widget-Stapel definiert, die Sie einmal konfigurieren und dann den Dock-Profilen hinzufügen, die sie verwenden sollen.\n\nWir haben Ihre vorhandenen Widgets zu %lld aktivierten Dock-Profil(en) hinzugefügt. Im Taskleistenmodus befinden sie sich an Vorder- und Hinterkante des Docks; im schwebenden Modus erscheinen sie direkt am Anfang und Ende des Docks. Der Papierkorb ist jetzt ein integriertes Element am Ende des Docks; Sie können ihn mit &quot;Papierkorb anzeigen&quot; in Einstellungen &gt; Dock deaktivieren.\n\nSie können die wiederverwendbaren Stapel in Einstellungen &gt; Widgets prüfen oder bearbeiten und sie anschließend im Dock-Profil-Editor jedem Profil hinzufügen oder daraus entfernen."
+            "value" : "Ihre Widgets wurden aktualisiert, weil das Widget-System neu gestaltet wurde.\n\nWidgets wurden bisher als globale Ablagen gespeichert. Jetzt sind sie als wiederverwendbare Widget-Stapel definiert, die Sie einmal konfigurieren und dann den Dock-Profilen hinzufügen, die sie verwenden sollen.\n\nWir haben Ihre vorhandenen Widgets zu %lld aktivierten Dock-Profil(en) hinzugefügt. Im Taskleistenmodus befinden sie sich an Vorder- und Hinterkante des Docks; im schwebenden Modus erscheinen sie direkt am Anfang und Ende des Docks. Der Papierkorb ist jetzt ein integriertes Element am Ende des Docks; Sie können ihn mit \"Papierkorb anzeigen\" in Einstellungen > Dock deaktivieren.\n\nSie können die wiederverwendbaren Stapel in Einstellungen > Widgets prüfen oder bearbeiten und sie anschließend im Dock-Profil-Editor jedem Profil hinzufügen oder daraus entfernen."
           }
         },
         "el" : {
@@ -537644,7 +537644,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ваши виджеты были обновлены, потому что система виджетов была переработана.\n\nРаньше виджеты хранились как глобальные полки. Теперь они существуют как повторно используемые определения стопок виджетов, которые вы настраиваете один раз, а затем добавляете в те профили дока, которые должны их использовать.\n\nМы добавили ваши существующие виджеты в %lld включённых профилей дока. В режиме панели задач они располагаются у левого и правого краёв дока; в плавающем режиме они отображаются встроенно в начале и конце дока. Корзина теперь является встроенным элементом в конце дока; вы можете отключить её с помощью «Show Trash» в Settings &gt; Dock.\n\nВы можете просмотреть или отредактировать повторно используемые стопки в Settings &gt; Widgets, затем добавить или удалить их из каждого профиля в редакторе профиля дока."
+            "value" : "Ваши виджеты были обновлены, потому что система виджетов была переработана.\n\nРаньше виджеты хранились как глобальные полки. Теперь они существуют как повторно используемые определения стопок виджетов, которые вы настраиваете один раз, а затем добавляете в те профили дока, которые должны их использовать.\n\nМы добавили ваши существующие виджеты в %lld включённых профилей дока. В режиме панели задач они располагаются у левого и правого краёв дока; в плавающем режиме они отображаются встроенно в начале и конце дока. Корзина теперь является встроенным элементом в конце дока; вы можете отключить её с помощью «Show Trash» в Settings > Dock.\n\nВы можете просмотреть или отредактировать повторно используемые стопки в Settings > Widgets, затем добавить или удалить их из каждого профиля в редакторе профиля дока."
           }
         },
         "sr" : {
