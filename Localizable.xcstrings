@@ -32814,181 +32814,98 @@
         }
       }
     },
-    "Allow Boost Above 100%" : {
+    "Allow Boost Above %@" : {
       "comment" : "App volume widget option",
+      "extractionState" : "manual",
       "localizations" : {
-        "af" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Allow Boost Above 100%"
-          }
-        },
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "السماح بالتعزيز فوق 100%"
-          }
-        },
-        "ca" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Allow Boost Above 100%"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Allow Boost Above 100%"
-          }
-        },
-        "da" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Allow Boost Above 100%"
+            "value" : "السماح بالتعزيز فوق %@"
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Anhebung über 100%"
-          }
-        },
-        "el" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Allow Boost Above 100%"
+            "value" : "Anhebung über %@ erlauben"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Permitir amplificar por encima del 100%"
-          }
-        },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Allow Boost Above 100%"
+            "value" : "Permitir amplificar por encima del %@"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Autoriser l'amplification au-delà de 100%"
-          }
-        },
-        "he" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Allow Boost Above 100%"
+            "value" : "Autoriser l'amplification au-delà de %@"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Erősítés engedélyezése 100 százalék fölé"
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Allow Boost Above 100%"
+            "value" : "Erősítés engedélyezése %@ fölé"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "100%を超えるブーストを許可"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Allow Boost Above 100%"
+            "value" : "%@を超えるブーストを許可"
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Versterken boven 100%"
-          }
-        },
-        "no" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Allow Boost Above 100%"
+            "value" : "Versterken boven %@"
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zezwalaj na wzmocnienie powyżej 100%"
+            "value" : "Zezwalaj na wzmocnienie powyżej %@"
           }
         },
         "pt" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Permitir Amplificação Acima de 100%"
-          }
-        },
-        "pt-BR" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Allow Boost Above 100%"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Allow Boost Above 100%"
+            "value" : "Permitir Amplificação Acima de %@"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Разрешить усиление выше 100%"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Allow Boost Above 100%"
+            "value" : "Разрешить усиление выше %@"
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tillåt förstärkning över 100%"
+            "value" : "Tillåt förstärkning över %@"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Yüzde 100 Üzerine Yükseltmeye İzin Ver"
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Allow Boost Above 100%"
+            "value" : "%@ Üzerine Yükseltmeye İzin Ver"
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cho phép tăng quá 100%"
+            "value" : "Cho phép tăng quá %@"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "允许将音量提升至 100% 以上"
+            "value" : "允许将音量提升至 %@ 以上"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "允許增強至 100% 以上"
+            "value" : "允許增強至 %@ 以上"
           }
         }
       }
@@ -346336,181 +346253,98 @@
         }
       }
     },
-    "Reset All to 100%" : {
+    "Reset All to %@" : {
       "comment" : "App volume panel button",
+      "extractionState" : "manual",
       "localizations" : {
-        "af" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Reset All to 100%"
-          }
-        },
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "إعادة تعيين الكل إلى 100%"
-          }
-        },
-        "ca" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Reset All to 100%"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Reset All to 100%"
-          }
-        },
-        "da" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Reset All to 100%"
+            "value" : "إعادة تعيين الكل إلى %@"
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alle zurücksetzen (100%)"
-          }
-        },
-        "el" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Reset All to 100%"
+            "value" : "Alle auf %@ zurücksetzen"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Restablecer todo al 100%"
-          }
-        },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Reset All to 100%"
+            "value" : "Restablecer todo al %@"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tout réinitialiser à 100%"
-          }
-        },
-        "he" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Reset All to 100%"
+            "value" : "Tout réinitialiser à %@"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Összes visszaállítása 100%-ra"
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Reset All to 100%"
+            "value" : "Összes visszaállítása %@-ra"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "すべてを100%にリセット"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Reset All to 100%"
+            "value" : "すべてを%@にリセット"
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alles terugzetten naar 100%"
-          }
-        },
-        "no" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Reset All to 100%"
+            "value" : "Alles terugzetten naar %@"
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ustaw wszystko na 100%"
+            "value" : "Ustaw wszystko na %@"
           }
         },
         "pt" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Repor Tudo a 100%"
-          }
-        },
-        "pt-BR" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Reset All to 100%"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Reset All to 100%"
+            "value" : "Repor Tudo a %@"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сбросить все до 100%"
-          }
-        },
-        "sr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Reset All to 100%"
+            "value" : "Сбросить все до %@"
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Återställ alla till 100%"
+            "value" : "Återställ alla till %@"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tümünü %100'e Sıfırla"
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Reset All to 100%"
+            "value" : "Tümünü %@'e Sıfırla"
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Đặt lại tất cả về 100%"
+            "value" : "Đặt lại tất cả về %@"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "全部重置为 100%"
+            "value" : "全部重置为 %@"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "全部重設為 100%"
+            "value" : "全部重設為 %@"
           }
         }
       }
