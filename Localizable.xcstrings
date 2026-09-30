@@ -105238,8 +105238,8 @@
         },
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Clear Search"
+            "state" : "translated",
+            "value" : "مسح البحث"
           }
         },
         "ca" : {
@@ -105262,8 +105262,8 @@
         },
         "de" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Clear Search"
+            "state" : "translated",
+            "value" : "Suche löschen"
           }
         },
         "el" : {
@@ -105274,8 +105274,8 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Clear Search"
+            "state" : "translated",
+            "value" : "Borrar búsqueda"
           }
         },
         "fi" : {
@@ -105286,8 +105286,8 @@
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Clear Search"
+            "state" : "translated",
+            "value" : "Effacer la recherche"
           }
         },
         "he" : {
@@ -105298,8 +105298,8 @@
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Clear Search"
+            "state" : "translated",
+            "value" : "Keresés törlése"
           }
         },
         "it" : {
@@ -105310,8 +105310,8 @@
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Clear Search"
+            "state" : "translated",
+            "value" : "検索をクリア"
           }
         },
         "ko" : {
@@ -105322,8 +105322,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Clear Search"
+            "state" : "translated",
+            "value" : "Zoekopdracht wissen"
           }
         },
         "no" : {
@@ -105334,14 +105334,14 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Clear Search"
+            "state" : "translated",
+            "value" : "Wyczyść wyszukiwanie"
           }
         },
         "pt" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Clear Search"
+            "state" : "translated",
+            "value" : "Limpar pesquisa"
           }
         },
         "pt-BR" : {
@@ -105358,8 +105358,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Clear Search"
+            "state" : "translated",
+            "value" : "Очистить поиск"
           }
         },
         "sr" : {
@@ -105370,14 +105370,14 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Clear Search"
+            "state" : "translated",
+            "value" : "Rensa sökning"
           }
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Clear Search"
+            "state" : "translated",
+            "value" : "Aramayı temizle"
           }
         },
         "uk" : {
@@ -105388,20 +105388,20 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Clear Search"
+            "state" : "translated",
+            "value" : "Xóa tìm kiếm"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Clear Search"
+            "state" : "translated",
+            "value" : "清除搜索"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Clear Search"
+            "state" : "translated",
+            "value" : "清除搜尋"
           }
         }
       }
@@ -321430,8 +321430,8 @@
         },
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Open All"
+            "state" : "translated",
+            "value" : "فتح الكل"
           }
         },
         "ca" : {
@@ -321454,8 +321454,8 @@
         },
         "de" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Open All"
+            "state" : "translated",
+            "value" : "Alle öffnen"
           }
         },
         "el" : {
@@ -321466,8 +321466,8 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Open All"
+            "state" : "translated",
+            "value" : "Abrir todas"
           }
         },
         "fi" : {
@@ -321478,8 +321478,8 @@
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Open All"
+            "state" : "translated",
+            "value" : "Tout ouvrir"
           }
         },
         "he" : {
@@ -321490,8 +321490,8 @@
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Open All"
+            "state" : "translated",
+            "value" : "Összes megnyitása"
           }
         },
         "it" : {
@@ -321502,8 +321502,8 @@
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Open All"
+            "state" : "translated",
+            "value" : "すべて開く"
           }
         },
         "ko" : {
@@ -321514,8 +321514,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Open All"
+            "state" : "translated",
+            "value" : "Alles openen"
           }
         },
         "no" : {
@@ -321526,14 +321526,14 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Open All"
+            "state" : "translated",
+            "value" : "Otwórz wszystkie"
           }
         },
         "pt" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Open All"
+            "state" : "translated",
+            "value" : "Abrir todas"
           }
         },
         "pt-BR" : {
@@ -321550,8 +321550,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Open All"
+            "state" : "translated",
+            "value" : "Открыть все"
           }
         },
         "sr" : {
@@ -321562,14 +321562,14 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Open All"
+            "state" : "translated",
+            "value" : "Öppna alla"
           }
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Open All"
+            "state" : "translated",
+            "value" : "Tümünü Aç"
           }
         },
         "uk" : {
@@ -321580,20 +321580,20 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Open All"
+            "state" : "translated",
+            "value" : "Mở tất cả"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Open All"
+            "state" : "translated",
+            "value" : "全部打开"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Open All"
+            "state" : "translated",
+            "value" : "全部開啟"
           }
         }
       }
@@ -450075,8 +450075,8 @@
         },
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Soft"
+            "state" : "translated",
+            "value" : "خفيف"
           }
         },
         "ca" : {
@@ -450099,8 +450099,8 @@
         },
         "de" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Soft"
+            "state" : "translated",
+            "value" : "Leicht"
           }
         },
         "el" : {
@@ -450111,8 +450111,8 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Soft"
+            "state" : "translated",
+            "value" : "Suave"
           }
         },
         "fi" : {
@@ -450123,8 +450123,8 @@
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Soft"
+            "state" : "translated",
+            "value" : "Léger"
           }
         },
         "he" : {
@@ -450135,8 +450135,8 @@
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Soft"
+            "state" : "translated",
+            "value" : "Gyenge"
           }
         },
         "it" : {
@@ -450147,8 +450147,8 @@
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Soft"
+            "state" : "translated",
+            "value" : "弱"
           }
         },
         "ko" : {
@@ -450159,8 +450159,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Soft"
+            "state" : "translated",
+            "value" : "Zacht"
           }
         },
         "no" : {
@@ -450171,14 +450171,14 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Soft"
+            "state" : "translated",
+            "value" : "Słaby"
           }
         },
         "pt" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Soft"
+            "state" : "translated",
+            "value" : "Suave"
           }
         },
         "pt-BR" : {
@@ -450195,8 +450195,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Soft"
+            "state" : "translated",
+            "value" : "Слабый"
           }
         },
         "sr" : {
@@ -450207,14 +450207,14 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Soft"
+            "state" : "translated",
+            "value" : "Svag"
           }
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Soft"
+            "state" : "translated",
+            "value" : "Hafif"
           }
         },
         "uk" : {
@@ -450225,20 +450225,20 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Soft"
+            "state" : "translated",
+            "value" : "Nhẹ"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Soft"
+            "state" : "translated",
+            "value" : "轻"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Soft"
+            "state" : "translated",
+            "value" : "輕"
           }
         }
       }
@@ -462622,8 +462622,8 @@
         },
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Strong"
+            "state" : "translated",
+            "value" : "قوي"
           }
         },
         "ca" : {
@@ -462646,8 +462646,8 @@
         },
         "de" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Strong"
+            "state" : "translated",
+            "value" : "Stark"
           }
         },
         "el" : {
@@ -462658,8 +462658,8 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Strong"
+            "state" : "translated",
+            "value" : "Fuerte"
           }
         },
         "fi" : {
@@ -462670,8 +462670,8 @@
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Strong"
+            "state" : "translated",
+            "value" : "Fort"
           }
         },
         "he" : {
@@ -462682,8 +462682,8 @@
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Strong"
+            "state" : "translated",
+            "value" : "Erős"
           }
         },
         "it" : {
@@ -462694,8 +462694,8 @@
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Strong"
+            "state" : "translated",
+            "value" : "強"
           }
         },
         "ko" : {
@@ -462706,8 +462706,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Strong"
+            "state" : "translated",
+            "value" : "Sterk"
           }
         },
         "no" : {
@@ -462718,14 +462718,14 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Strong"
+            "state" : "translated",
+            "value" : "Silny"
           }
         },
         "pt" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Strong"
+            "state" : "translated",
+            "value" : "Forte"
           }
         },
         "pt-BR" : {
@@ -462742,8 +462742,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Strong"
+            "state" : "translated",
+            "value" : "Сильный"
           }
         },
         "sr" : {
@@ -462754,14 +462754,14 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Strong"
+            "state" : "translated",
+            "value" : "Stark"
           }
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Strong"
+            "state" : "translated",
+            "value" : "Güçlü"
           }
         },
         "uk" : {
@@ -462772,20 +462772,20 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Strong"
+            "state" : "translated",
+            "value" : "Mạnh"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Strong"
+            "state" : "translated",
+            "value" : "强"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Strong"
+            "state" : "translated",
+            "value" : "強"
           }
         }
       }
@@ -464055,8 +464055,8 @@
         },
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Sunny"
+            "state" : "translated",
+            "value" : "مشمس"
           }
         },
         "ca" : {
@@ -464079,8 +464079,8 @@
         },
         "de" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Sunny"
+            "state" : "translated",
+            "value" : "Sonnig"
           }
         },
         "el" : {
@@ -464091,8 +464091,8 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Sunny"
+            "state" : "translated",
+            "value" : "Soleado"
           }
         },
         "fi" : {
@@ -464103,8 +464103,8 @@
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Sunny"
+            "state" : "translated",
+            "value" : "Ensoleillé"
           }
         },
         "he" : {
@@ -464115,8 +464115,8 @@
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Sunny"
+            "state" : "translated",
+            "value" : "Napos"
           }
         },
         "it" : {
@@ -464127,8 +464127,8 @@
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Sunny"
+            "state" : "translated",
+            "value" : "晴れ"
           }
         },
         "ko" : {
@@ -464139,8 +464139,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Sunny"
+            "state" : "translated",
+            "value" : "Zonnig"
           }
         },
         "no" : {
@@ -464151,14 +464151,14 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Sunny"
+            "state" : "translated",
+            "value" : "Słonecznie"
           }
         },
         "pt" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Sunny"
+            "state" : "translated",
+            "value" : "Soalheiro"
           }
         },
         "pt-BR" : {
@@ -464175,8 +464175,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Sunny"
+            "state" : "translated",
+            "value" : "Солнечно"
           }
         },
         "sr" : {
@@ -464187,14 +464187,14 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Sunny"
+            "state" : "translated",
+            "value" : "Soligt"
           }
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Sunny"
+            "state" : "translated",
+            "value" : "Güneşli"
           }
         },
         "uk" : {
@@ -464205,20 +464205,20 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Sunny"
+            "state" : "translated",
+            "value" : "Nắng"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Sunny"
+            "state" : "translated",
+            "value" : "晴"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Sunny"
+            "state" : "translated",
+            "value" : "晴"
           }
         }
       }
@@ -507413,8 +507413,8 @@
         },
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Up Next"
+            "state" : "translated",
+            "value" : "التالي"
           }
         },
         "ca" : {
@@ -507437,8 +507437,8 @@
         },
         "de" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Up Next"
+            "state" : "translated",
+            "value" : "Als Nächstes"
           }
         },
         "el" : {
@@ -507449,8 +507449,8 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Up Next"
+            "state" : "translated",
+            "value" : "A continuación"
           }
         },
         "fi" : {
@@ -507461,8 +507461,8 @@
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Up Next"
+            "state" : "translated",
+            "value" : "À suivre"
           }
         },
         "he" : {
@@ -507473,8 +507473,8 @@
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Up Next"
+            "state" : "translated",
+            "value" : "Következő"
           }
         },
         "it" : {
@@ -507485,8 +507485,8 @@
         },
         "ja" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Up Next"
+            "state" : "translated",
+            "value" : "次"
           }
         },
         "ko" : {
@@ -507497,8 +507497,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Up Next"
+            "state" : "translated",
+            "value" : "Hierna"
           }
         },
         "no" : {
@@ -507509,14 +507509,14 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Up Next"
+            "state" : "translated",
+            "value" : "Następne"
           }
         },
         "pt" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Up Next"
+            "state" : "translated",
+            "value" : "A seguir"
           }
         },
         "pt-BR" : {
@@ -507533,8 +507533,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Up Next"
+            "state" : "translated",
+            "value" : "Следующее"
           }
         },
         "sr" : {
@@ -507545,14 +507545,14 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Up Next"
+            "state" : "translated",
+            "value" : "Härnäst"
           }
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Up Next"
+            "state" : "translated",
+            "value" : "Sıradaki"
           }
         },
         "uk" : {
@@ -507563,20 +507563,20 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Up Next"
+            "state" : "translated",
+            "value" : "Tiếp theo"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Up Next"
+            "state" : "translated",
+            "value" : "下一个"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Up Next"
+            "state" : "translated",
+            "value" : "下一個"
           }
         }
       }
