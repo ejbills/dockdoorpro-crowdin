@@ -32640,10 +32640,34 @@
       "comment" : "App volume widget option",
       "extractionState" : "manual",
       "localizations" : {
+        "af" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Allow Boost Above %@"
+          }
+        },
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "السماح بالتعزيز فوق %@"
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Allow Boost Above %@"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Allow Boost Above %@"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Allow Boost Above %@"
           }
         },
         "de" : {
@@ -32652,10 +32676,22 @@
             "value" : "Anhebung über %@ erlauben"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Allow Boost Above %@"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Permitir amplificar por encima del %@"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Allow Boost Above %@"
           }
         },
         "fr" : {
@@ -32664,10 +32700,22 @@
             "value" : "Autoriser l'amplification au-delà de %@"
           }
         },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Allow Boost Above %@"
+          }
+        },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Erősítés engedélyezése %@ fölé"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Allow Boost Above %@"
           }
         },
         "ja" : {
@@ -32676,10 +32724,22 @@
             "value" : "%@を超えるブーストを許可"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Allow Boost Above %@"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Versterken boven %@"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Allow Boost Above %@"
           }
         },
         "pl" : {
@@ -32694,10 +32754,28 @@
             "value" : "Permitir Amplificação Acima de %@"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Allow Boost Above %@"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Allow Boost Above %@"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Разрешить усиление выше %@"
+          }
+        },
+        "sr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Allow Boost Above %@"
           }
         },
         "sv" : {
@@ -32710,6 +32788,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ Üzerine Yükseltmeye İzin Ver"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Allow Boost Above %@"
           }
         },
         "vi" : {
@@ -341940,10 +342024,34 @@
       "comment" : "App volume panel button",
       "extractionState" : "manual",
       "localizations" : {
+        "af" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Reset All to %@"
+          }
+        },
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "إعادة تعيين الكل إلى %@"
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Reset All to %@"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Reset All to %@"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Reset All to %@"
           }
         },
         "de" : {
@@ -341952,10 +342060,22 @@
             "value" : "Alle auf %@ zurücksetzen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Reset All to %@"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Restablecer todo al %@"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Reset All to %@"
           }
         },
         "fr" : {
@@ -341964,10 +342084,22 @@
             "value" : "Tout réinitialiser à %@"
           }
         },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Reset All to %@"
+          }
+        },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Összes visszaállítása %@-ra"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Reset All to %@"
           }
         },
         "ja" : {
@@ -341976,10 +342108,22 @@
             "value" : "すべてを%@にリセット"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Reset All to %@"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Alles terugzetten naar %@"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Reset All to %@"
           }
         },
         "pl" : {
@@ -341994,10 +342138,28 @@
             "value" : "Repor Tudo a %@"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Reset All to %@"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Reset All to %@"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Сбросить все до %@"
+          }
+        },
+        "sr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Reset All to %@"
           }
         },
         "sv" : {
@@ -342010,6 +342172,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tümünü %@'e Sıfırla"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Reset All to %@"
           }
         },
         "vi" : {
