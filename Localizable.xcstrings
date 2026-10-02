@@ -479,8 +479,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : " clips"
+            "state" : "translated",
+            "value" : " clipes"
           }
         },
         "ro" : {
@@ -1021,7 +1021,7 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%1$@  ·  %2$@  ·  %3$@  ·  %4$@"
           }
         },
@@ -2296,7 +2296,7 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%lld"
           }
         },
@@ -2476,8 +2476,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%lld apps"
+            "state" : "translated",
+            "value" : "%lld aplicativos"
           }
         },
         "ro" : {
@@ -2836,8 +2836,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%lld files"
+            "state" : "translated",
+            "value" : "%lld arquivos"
           }
         },
         "ro" : {
@@ -3016,8 +3016,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%lld items"
+            "state" : "translated",
+            "value" : "%lld itens"
           }
         },
         "ro" : {
@@ -3202,8 +3202,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%1$lld of %2$lld events left"
+            "state" : "translated",
+            "value" : "%1$lld de %2$lld eventos restantes"
           }
         },
         "ro" : {
@@ -3388,8 +3388,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%1$lld of %2$lld granted"
+            "state" : "translated",
+            "value" : "%1$lld de %2$lld concedidos"
           }
         },
         "ro" : {
@@ -3568,8 +3568,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%lld Profiles"
+            "state" : "translated",
+            "value" : "%lld Perfis"
           }
         },
         "ro" : {
@@ -3748,8 +3748,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%lld widget"
+            "state" : "translated",
+            "value" : "Widget %lld"
           }
         },
         "ro" : {
@@ -3928,8 +3928,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%lld widgets"
+            "state" : "translated",
+            "value" : "Widgets %lld"
           }
         },
         "ro" : {
@@ -4112,8 +4112,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%1$lld·%2$lld"
+            "state" : "translated",
+            "value" : "%1$lld %2$lld"
           }
         },
         "ro" : {
@@ -4298,7 +4298,7 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%1$lld/%2$lld"
           }
         },
@@ -4476,7 +4476,7 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "+%lld"
           }
         },
@@ -4655,7 +4655,7 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "+1 Min"
           }
         },
@@ -4834,8 +4834,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "1 app"
+            "state" : "translated",
+            "value" : "1 aplicativo"
           }
         },
         "ro" : {
@@ -5013,8 +5013,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "1 app excluded"
+            "state" : "translated",
+            "value" : "1 app excluído"
           }
         },
         "ro" : {
@@ -5192,8 +5192,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "1 app selected"
+            "state" : "translated",
+            "value" : "1 aplicativo selecionado"
           }
         },
         "ro" : {
@@ -5371,7 +5371,7 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "1 item"
           }
         },
@@ -5550,7 +5550,7 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "1 min"
           }
         },
@@ -5729,8 +5729,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "1 Profile"
+            "state" : "translated",
+            "value" : "1 Perfil"
           }
         },
         "ro" : {
@@ -5908,7 +5908,7 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "1 widget"
           }
         },
@@ -6087,7 +6087,7 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "5 min"
           }
         },
@@ -6266,7 +6266,7 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "15 min"
           }
         },
@@ -6445,7 +6445,7 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "20-20-20"
           }
         },
@@ -6624,8 +6624,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "24-Hour Format"
+            "state" : "translated",
+            "value" : "Formato de 24 Horas"
           }
         },
         "ro" : {
@@ -6802,7 +6802,7 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "99+"
           }
         },
@@ -6981,8 +6981,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "A column listing every running app, its windows and their actions. Turn it off for a narrower panel."
+            "state" : "translated",
+            "value" : "Uma coluna listando todos os aplicativos em execução, suas janelas e suas ações. Desligue-o para um painel mais estreito."
           }
         },
         "ro" : {
@@ -7160,8 +7160,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "A large stack takes the space of three app icons."
+            "state" : "translated",
+            "value" : "Uma grande pilha ocupa o espaço de três ícones de aplicativos."
           }
         },
         "ro" : {
@@ -7339,8 +7339,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "A medium stack takes the space of two app icons."
+            "state" : "translated",
+            "value" : "Uma pilha média ocupa o espaço de dois ícones de aplicativo."
           }
         },
         "ro" : {
@@ -7518,8 +7518,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "A restart is recommended to recalibrate magnification zones for the new dock style."
+            "state" : "translated",
+            "value" : "Recomenda-se reiniciar para recalibrar as zonas de ampliação para o novo estilo da doca."
           }
         },
         "ro" : {
@@ -7697,8 +7697,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "A row of sleep, restart and shut down buttons in the panel's left column."
+            "state" : "translated",
+            "value" : "Uma linha de sono, reinicie e desligue os botões na coluna esquerda do painel."
           }
         },
         "ro" : {
@@ -7876,8 +7876,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "A small stack takes the space of one app icon."
+            "state" : "translated",
+            "value" : "Uma pequena pilha ocupa o espaço de um ícone de aplicativo."
           }
         },
         "ro" : {
@@ -8055,8 +8055,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "A to Z"
+            "state" : "translated",
+            "value" : "A a Z"
           }
         },
         "ro" : {
@@ -8235,8 +8235,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "A widget stack can hold multiple tools in one slot. Scrolling over a stack pages through those tools."
+            "state" : "translated",
+            "value" : "Uma pilha de widgets pode segurar várias ferramentas em um slot. Role em uma pilha de páginas através dessas ferramentas."
           }
         },
         "ro" : {
@@ -8414,8 +8414,8 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "About"
+            "state" : "translated",
+            "value" : ""
           }
         },
         "ro" : {
@@ -314474,7 +314474,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Position & Anzeige"
+            "value" : "Platzierung & Ausblenden"
           }
         },
         "el" : {
@@ -357281,7 +357281,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Einstellungen suchen…"
+            "value" : "Einstellungen durchsuchen…"
           }
         },
         "el" : {
@@ -432666,7 +432666,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Diese Einstellungen steuern Sie selbst. Lassen Sie das Menüleistensymbol aktiviert, bis Sie wissen, wie Sie die Einstellungen erneut öffnen, und stellen Sie das native Dock bei Bedarf unter „Position & Anzeige“ wieder her."
+            "value" : "Diese Einstellungen steuern Sie selbst. Lassen Sie das Menüleistensymbol aktiviert, bis Sie wissen, wie Sie die Einstellungen erneut öffnen, und stellen Sie das native Dock bei Bedarf unter „Platzierung & Ausblenden“ wieder her."
           }
         },
         "el" : {
