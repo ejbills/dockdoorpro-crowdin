@@ -314474,7 +314474,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Platzierung & Ausblenden"
+            "value" : "Position & Anzeige"
           }
         },
         "el" : {
@@ -357281,7 +357281,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Einstellungen durchsuchen…"
+            "value" : "Einstellungen suchen…"
           }
         },
         "el" : {
@@ -432666,7 +432666,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Diese Einstellungen steuern Sie selbst. Lassen Sie das Menüleistensymbol aktiviert, bis Sie wissen, wie Sie die Einstellungen erneut öffnen, und stellen Sie das native Dock bei Bedarf unter „Platzierung & Ausblenden“ wieder her."
+            "value" : "Diese Einstellungen steuern Sie selbst. Lassen Sie das Menüleistensymbol aktiviert, bis Sie wissen, wie Sie die Einstellungen erneut öffnen, und stellen Sie das native Dock bei Bedarf unter „Position & Anzeige“ wieder her."
           }
         },
         "el" : {
