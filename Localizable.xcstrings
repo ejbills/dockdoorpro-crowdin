@@ -82056,7 +82056,7 @@
       }
     },
     "Choose" : {
-      "comment" : "File manager open panel confirm button\nSettings control title\nShare target open panel confirm button\nWidget folder open panel button",
+      "comment" : "File manager open panel confirm button\nOpen panel confirm button for choosing a folder\nSettings control title\nShare target open panel confirm button\nWidget folder open panel button",
       "localizations" : {
         "af" : {
           "stringUnit" : {
@@ -85275,6 +85275,9 @@
           }
         }
       }
+    },
+    "Choose Folder..." : {
+      "comment" : "Button that opens a folder picker for the browser profile data directory"
     },
     "Choose how open apps are sorted in the dock, Open Apps shelf, and app groups when open apps are shown first." : {
       "comment" : "Settings control description\nSettings search description",
@@ -252865,6 +252868,10 @@
         }
       }
     },
+    "macOS now blocks apps from reading this browser's data, so it can't be found automatically. Click Choose Folder and select \"%@\" to allow it." : {
+      "comment" : "Shown when macOS denies access to a browser's profile data directory; the placeholder is the folder to select, such as Google > Chrome",
+      "extractionState" : "manual"
+    },
     "macOS owns system shortcuts like Command-Tab and Command-Space. Use DockDoor Pro's Alt-Tab-style shortcuts with an available keybind such as Option-Tab, or pick a custom combination if another app or system setting already uses it." : {
       "comment" : "Keyboard shortcut conflict guidance",
       "localizations" : {
@@ -285086,6 +285093,9 @@
           }
         }
       }
+    },
+    "No Profile Data Found" : {
+      "comment" : "Alert title when the chosen folder is not a browser profile data directory"
     },
     "No recent files" : {
       "comment" : "Recent Files panel empty title\nRecent Files widget empty state",
@@ -381264,6 +381274,13 @@
         }
       }
     },
+    "Select the \"%@\" folder, then click Choose. macOS only lets DockDoor Pro read a browser's data after you pick its folder here." : {
+      "comment" : "Open panel message naming the browser profile data folder to select",
+      "extractionState" : "manual"
+    },
+    "Select the browser's profile data folder, for example Google > Chrome." : {
+      "comment" : "Open panel message for choosing a browser profile data directory"
+    },
     "Select what AppSense activates when focus moves to an unlinked app. Previous Profile restores the profile active before AppSense switched." : {
       "comment" : "Settings control description\nSettings search description",
       "localizations" : {
@@ -450918,6 +450935,9 @@
           }
         }
       }
+    },
+    "That folder doesn't contain browser profile data. Choose the folder that holds the \"Local State\" file." : {
+      "comment" : "Alert message when the chosen folder is not a browser profile data directory"
     },
     "The app row is scrollable." : {
       "comment" : "Dock anatomy note title",
