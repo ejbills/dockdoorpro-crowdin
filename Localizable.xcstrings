@@ -53149,8 +53149,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Assign a dock profile to each display and Mission Control desktop"
+            "state" : "translated",
+            "value" : "Wijs een Dock-profiel toe aan elk beeldscherm en bureaublad in Mission Control"
           }
         },
         "no" : {
@@ -53507,8 +53507,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Assign profiles to displays and desktops"
+            "state" : "translated",
+            "value" : "Wijs profielen toe aan beeldschermen en bureaubladen"
           }
         },
         "no" : {
@@ -55297,8 +55297,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Auto-Hide Detached Tray"
+            "state" : "translated",
+            "value" : "Losgemaakt bestandsvak automatisch verbergen"
           }
         },
         "no" : {
@@ -82866,8 +82866,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Choose a profile for each display and Mission Control desktop. A desktop's profile shows while you're on that desktop; desktops set to None use the display's profile. \"Active Profile\" follows whichever profile you switch to."
+            "state" : "translated",
+            "value" : "Kies een profiel voor elk beeldscherm en bureaublad in Mission Control. Het profiel van een bureaublad wordt getoond zolang je op dat bureaublad bent. Bureaubladen met de instelling ‘Geen’ gebruiken het profiel van het beeldscherm. ‘Actief profiel’ volgt het profiel waarnaar je overschakelt."
           }
         },
         "no" : {
@@ -83045,8 +83045,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Choose a profile for each Mission Control desktop. Switching to that desktop shows its profile; desktops set to None go back to the profile that was showing before."
+            "state" : "translated",
+            "value" : "Kies een profiel voor elk bureaublad in Mission Control. Zodra je naar dat bureaublad overschakelt, wordt het bijbehorende profiel getoond. Bureaubladen met de instelling ‘Geen’ gebruiken weer het profiel dat daarvoor werd getoond."
           }
         },
         "no" : {
@@ -85277,7 +85277,183 @@
       }
     },
     "Choose Folder..." : {
-      "comment" : "Button that opens a folder picker for the browser profile data directory"
+      "comment" : "Button that opens a folder picker for the browser profile data directory",
+      "localizations" : {
+        "af" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Choose Folder..."
+          }
+        },
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Choose Folder..."
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Choose Folder..."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Choose Folder..."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Choose Folder..."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Choose Folder..."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Choose Folder..."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Choose Folder..."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Choose Folder..."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Choose Folder..."
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Choose Folder..."
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Choose Folder..."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Choose Folder..."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Choose Folder..."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Choose Folder..."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Choose Folder..."
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Choose Folder..."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Choose Folder..."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Choose Folder..."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Choose Folder..."
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Choose Folder..."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Choose Folder..."
+          }
+        },
+        "sr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Choose Folder..."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Choose Folder..."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Choose Folder..."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Choose Folder..."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Choose Folder..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Choose Folder..."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Choose Folder..."
+          }
+        }
+      }
     },
     "Choose how open apps are sorted in the dock, Open Apps shelf, and app groups when open apps are shown first." : {
       "comment" : "Settings control description\nSettings search description",
@@ -87523,8 +87699,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Choose the screen edge the detached file tray sits on"
+            "state" : "translated",
+            "value" : "Kies de schermrand waar het losgemaakte bestandsvak staat"
           }
         },
         "no" : {
@@ -98983,8 +99159,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Clicking this item switches the dock to the profile. Its icon and name follow the profile."
+            "state" : "translated",
+            "value" : "Klik op dit onderdeel om het Dock naar het bijbehorende profiel te laten overschakelen. Het symbool en de naam van het onderdeel volgen die van het profiel."
           }
         },
         "no" : {
@@ -100952,8 +101128,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Close All Apps"
+            "state" : "translated",
+            "value" : "Stop alle apps"
           }
         },
         "no" : {
@@ -101131,8 +101307,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Close All Apps?"
+            "state" : "translated",
+            "value" : "Alle apps stoppen?"
           }
         },
         "no" : {
@@ -106502,8 +106678,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Configure per-display dock visibility and edge overrides"
+            "state" : "translated",
+            "value" : "Stel de zichtbaarheid van het Dock en afwijkende randinstellingen per beeldscherm in"
           }
         },
         "no" : {
@@ -108293,8 +108469,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Connect another display to set per-display visibility and edge overrides."
+            "state" : "translated",
+            "value" : "Sluit een extra beeldscherm aan om de zichtbaarheid van het Dock en afwijkende randinstellingen per beeldscherm in te stellen."
           }
         },
         "no" : {
@@ -114561,8 +114737,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Count Only Current Space Windows"
+            "state" : "translated",
+            "value" : "Alleen vensters in huidige space tellen"
           }
         },
         "no" : {
@@ -116351,8 +116527,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Create another profile first"
+            "state" : "translated",
+            "value" : "Maak eerst een ander profiel aan"
           }
         },
         "no" : {
@@ -117604,8 +117780,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Current desktop"
+            "state" : "translated",
+            "value" : "Huidig bureaublad"
           }
         },
         "no" : {
@@ -118499,8 +118675,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Current Space Alt-Tab"
+            "state" : "translated",
+            "value" : "Alt-Tab huidige space"
           }
         },
         "no" : {
@@ -128704,8 +128880,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Detach File Tray"
+            "state" : "translated",
+            "value" : "Bestandsvak losmaken"
           }
         },
         "no" : {
@@ -132105,8 +132281,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Disabled because Alt-Tab is already limited to the current Space"
+            "state" : "translated",
+            "value" : "Uitgeschakeld omdat Alt-Tab al beperkt is tot de huidige space"
           }
         },
         "no" : {
@@ -139982,8 +140158,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Dock Profile"
+            "state" : "translated",
+            "value" : "Dock-profiel"
           }
         },
         "no" : {
@@ -144286,8 +144462,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "DockDoor Pro's shortcuts and letter navigation pass through to these apps while they're active. Useful for virtual machines and remote desktops."
+            "state" : "translated",
+            "value" : "Zolang deze apps actief zijn, worden de sneltoetsen en letternavigatie van DockDoor Pro aan die apps doorgegeven. Handig voor virtuele machines en bureaubladen op afstand."
           }
         },
         "no" : {
@@ -146613,8 +146789,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Download Progress"
+            "state" : "translated",
+            "value" : "Downloadvoortgang"
           }
         },
         "no" : {
@@ -153595,8 +153771,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Edit Profile"
+            "state" : "translated",
+            "value" : "Bewerk profiel"
           }
         },
         "no" : {
@@ -160576,8 +160752,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Every app in this list except Finder will quit. Apps with unsaved changes may ask you to save first."
+            "state" : "translated",
+            "value" : "Alle apps in deze lijst behalve Finder worden gestopt. Apps met niet-bewaarde wijzigingen kunnen je eerst vragen om deze te bewaren."
           }
         },
         "no" : {
@@ -161471,8 +161647,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Exclude Apps From Shortcuts"
+            "state" : "translated",
+            "value" : "Apps uitsluiten van sneltoetsen"
           }
         },
         "no" : {
@@ -161650,8 +161826,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Exclude apps from shortcuts only while they're fullscreen"
+            "state" : "translated",
+            "value" : "Sluit apps alleen uit van sneltoetsen wanneer ze schermvullend worden weergegeven"
           }
         },
         "no" : {
@@ -162008,8 +162184,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Exclude From Shortcuts"
+            "state" : "translated",
+            "value" : "Uitsluiten van sneltoetsen"
           }
         },
         "no" : {
@@ -168273,8 +168449,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Fan out and nudge the widgets behind a stack while the pointer rests on it"
+            "state" : "translated",
+            "value" : "Klap de widgets achter een stapel uit en laat ze licht bewegen wanneer je de stapel aanwijst"
           }
         },
         "no" : {
@@ -183850,8 +184026,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Gather running apps that aren't pinned into one stack. Click it to see them all."
+            "state" : "translated",
+            "value" : "Groepeer geopende apps die niet zijn vastgezet in één stapel. Klik op de stapel om ze allemaal te zien."
           }
         },
         "no" : {
@@ -199604,8 +199780,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Hide dock icons of running apps whose windows are all on other Spaces (desktops)"
+            "state" : "translated",
+            "value" : "Verberg Dock-symbolen van geopende apps waarvan alle vensters in andere spaces (bureaubladen) staan"
           }
         },
         "no" : {
@@ -202289,8 +202465,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Hide the dock icons of running apps whose windows are all on other Spaces (desktops). Each display's dock follows its own Space. Window previews have a separate Current Space Only filter."
+            "state" : "translated",
+            "value" : "Verberg de Dock-symbolen van geopende apps waarvan alle vensters in andere spaces (bureaubladen) staan. Het Dock op elk beeldscherm volgt de space van dat beeldscherm. Voor venstervoorvertoningen is er een apart filter ‘Alleen huidige space’."
           }
         },
         "no" : {
@@ -205333,8 +205509,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Hold a dock item to open its panel: app previews, folder fan-outs, and widgets."
+            "state" : "translated",
+            "value" : "Houd een Dock-onderdeel ingedrukt om het bijbehorende paneel te openen: appvoorvertoningen, uitklapbare mapweergaven en widgets."
           }
         },
         "no" : {
@@ -207123,8 +207299,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Hover a dock item to open its panel without holding. A long press still opens it."
+            "state" : "translated",
+            "value" : "Wijs een Dock-onderdeel aan om het bijbehorende paneel te openen zonder het ingedrukt te houden. Lang indrukken opent het paneel ook."
           }
         },
         "no" : {
@@ -209631,8 +209807,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "How close to the screen edge the cursor must come to reveal the hidden dock"
+            "state" : "translated",
+            "value" : "Hoe dicht de aanwijzer bij de schermrand moet komen om het verborgen Dock te tonen"
           }
         },
         "no" : {
@@ -209810,8 +209986,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "How close to the screen edge the cursor must come to reveal the hidden dock. At 0 it reveals only at the very edge."
+            "state" : "translated",
+            "value" : "Hoe dicht de aanwijzer bij de schermrand moet komen om het verborgen Dock te tonen. Bij 0 verschijnt het Dock alleen als je de uiterste rand aanwijst."
           }
         },
         "no" : {
@@ -224492,8 +224668,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Include window-less apps, limit running apps to the current Space, keep grouped apps visible while running, add a separator, and select profiles where running apps are hidden."
+            "state" : "translated",
+            "value" : "Neem apps zonder vensters mee, beperk geopende apps tot de huidige space, houd gegroepeerde apps zichtbaar zolang ze actief zijn, voeg een scheidingslijn toe en selecteer profielen waarin geopende apps worden verborgen."
           }
         },
         "no" : {
@@ -233263,8 +233439,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Keep shortcuts working while an excluded app is in a regular window. Turn off to exclude the app whenever it's active."
+            "state" : "translated",
+            "value" : "Laat sneltoetsen werken wanneer een uitgesloten app in een gewoon venster wordt weergegeven. Schakel dit uit om de app uit te sluiten zodra deze actief is."
           }
         },
         "no" : {
@@ -236307,7 +236483,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Label"
           }
         },
@@ -241680,8 +241856,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Let shortcuts pass through to selected apps, such as virtual machines and remote desktops"
+            "state" : "translated",
+            "value" : "Geef sneltoetsen door aan geselecteerde apps, zoals virtuele machines en bureaubladen op afstand"
           }
         },
         "no" : {
@@ -247053,8 +247229,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Live App Icons"
+            "state" : "translated",
+            "value" : "Dynamische appsymbolen"
           }
         },
         "no" : {
@@ -247232,8 +247408,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Live Previews"
+            "state" : "translated",
+            "value" : "Livevoorvertoningen"
           }
         },
         "no" : {
@@ -250274,8 +250450,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Long Press"
+            "state" : "translated",
+            "value" : "Lang indrukken"
           }
         },
         "no" : {
@@ -252870,7 +253046,183 @@
     },
     "macOS now blocks apps from reading this browser's data, so it can't be found automatically. Click Choose Folder and select \"%@\" to allow it." : {
       "comment" : "Shown when macOS denies access to a browser's profile data directory; the placeholder is the folder to select, such as Google > Chrome",
-      "extractionState" : "manual"
+      "extractionState" : "manual",
+      "localizations" : {
+        "af" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "macOS now blocks apps from reading this browser's data, so it can't be found automatically. Click Choose Folder and select \"%@\" to allow it."
+          }
+        },
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "macOS now blocks apps from reading this browser's data, so it can't be found automatically. Click Choose Folder and select \"%@\" to allow it."
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "macOS now blocks apps from reading this browser's data, so it can't be found automatically. Click Choose Folder and select \"%@\" to allow it."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "macOS now blocks apps from reading this browser's data, so it can't be found automatically. Click Choose Folder and select \"%@\" to allow it."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "macOS now blocks apps from reading this browser's data, so it can't be found automatically. Click Choose Folder and select \"%@\" to allow it."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "macOS now blocks apps from reading this browser's data, so it can't be found automatically. Click Choose Folder and select \"%@\" to allow it."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "macOS now blocks apps from reading this browser's data, so it can't be found automatically. Click Choose Folder and select \"%@\" to allow it."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "macOS now blocks apps from reading this browser's data, so it can't be found automatically. Click Choose Folder and select \"%@\" to allow it."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "macOS now blocks apps from reading this browser's data, so it can't be found automatically. Click Choose Folder and select \"%@\" to allow it."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "macOS now blocks apps from reading this browser's data, so it can't be found automatically. Click Choose Folder and select \"%@\" to allow it."
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "macOS now blocks apps from reading this browser's data, so it can't be found automatically. Click Choose Folder and select \"%@\" to allow it."
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "macOS now blocks apps from reading this browser's data, so it can't be found automatically. Click Choose Folder and select \"%@\" to allow it."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "macOS now blocks apps from reading this browser's data, so it can't be found automatically. Click Choose Folder and select \"%@\" to allow it."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "macOS now blocks apps from reading this browser's data, so it can't be found automatically. Click Choose Folder and select \"%@\" to allow it."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "macOS now blocks apps from reading this browser's data, so it can't be found automatically. Click Choose Folder and select \"%@\" to allow it."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "macOS now blocks apps from reading this browser's data, so it can't be found automatically. Click Choose Folder and select \"%@\" to allow it."
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "macOS now blocks apps from reading this browser's data, so it can't be found automatically. Click Choose Folder and select \"%@\" to allow it."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "macOS now blocks apps from reading this browser's data, so it can't be found automatically. Click Choose Folder and select \"%@\" to allow it."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "macOS now blocks apps from reading this browser's data, so it can't be found automatically. Click Choose Folder and select \"%@\" to allow it."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "macOS now blocks apps from reading this browser's data, so it can't be found automatically. Click Choose Folder and select \"%@\" to allow it."
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "macOS now blocks apps from reading this browser's data, so it can't be found automatically. Click Choose Folder and select \"%@\" to allow it."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "macOS now blocks apps from reading this browser's data, so it can't be found automatically. Click Choose Folder and select \"%@\" to allow it."
+          }
+        },
+        "sr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "macOS now blocks apps from reading this browser's data, so it can't be found automatically. Click Choose Folder and select \"%@\" to allow it."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "macOS now blocks apps from reading this browser's data, so it can't be found automatically. Click Choose Folder and select \"%@\" to allow it."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "macOS now blocks apps from reading this browser's data, so it can't be found automatically. Click Choose Folder and select \"%@\" to allow it."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "macOS now blocks apps from reading this browser's data, so it can't be found automatically. Click Choose Folder and select \"%@\" to allow it."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "macOS now blocks apps from reading this browser's data, so it can't be found automatically. Click Choose Folder and select \"%@\" to allow it."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "macOS now blocks apps from reading this browser's data, so it can't be found automatically. Click Choose Folder and select \"%@\" to allow it."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "macOS now blocks apps from reading this browser's data, so it can't be found automatically. Click Choose Folder and select \"%@\" to allow it."
+          }
+        }
+      }
     },
     "macOS owns system shortcuts like Command-Tab and Command-Space. Use DockDoor Pro's Alt-Tab-style shortcuts with an available keybind such as Option-Tab, or pick a custom combination if another app or system setting already uses it." : {
       "comment" : "Keyboard shortcut conflict guidance",
@@ -269437,8 +269789,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Move the file tray out of the shelf into its own panel at a screen edge"
+            "state" : "translated",
+            "value" : "Verplaats het bestandsvak uit de bestandsplank naar een eigen paneel aan een schermrand"
           }
         },
         "no" : {
@@ -269616,8 +269968,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Move the file tray out of the shelf into its own panel at a screen edge, so you can drag files to it without opening the dock"
+            "state" : "translated",
+            "value" : "Verplaats het bestandsvak uit de bestandsplank naar een eigen paneel aan een schermrand, zodat je er bestanden naartoe kunt slepen zonder het Dock te openen"
           }
         },
         "no" : {
@@ -283220,8 +283572,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No matching emoji"
+            "state" : "translated",
+            "value" : "Geen overeenkomende emoji"
           }
         },
         "no" : {
@@ -285095,7 +285447,183 @@
       }
     },
     "No Profile Data Found" : {
-      "comment" : "Alert title when the chosen folder is not a browser profile data directory"
+      "comment" : "Alert title when the chosen folder is not a browser profile data directory",
+      "localizations" : {
+        "af" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Profile Data Found"
+          }
+        },
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Profile Data Found"
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Profile Data Found"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Profile Data Found"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Profile Data Found"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Profile Data Found"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Profile Data Found"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Profile Data Found"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Profile Data Found"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Profile Data Found"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Profile Data Found"
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Profile Data Found"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Profile Data Found"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Profile Data Found"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Profile Data Found"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Profile Data Found"
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Profile Data Found"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Profile Data Found"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Profile Data Found"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Profile Data Found"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Profile Data Found"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Profile Data Found"
+          }
+        },
+        "sr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Profile Data Found"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Profile Data Found"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Profile Data Found"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Profile Data Found"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Profile Data Found"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Profile Data Found"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Profile Data Found"
+          }
+        }
+      }
     },
     "No recent files" : {
       "comment" : "Recent Files panel empty title\nRecent Files widget empty state",
@@ -297723,8 +298251,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Only list windows from the current Space (desktop) in previews. App icons stay in the dock."
+            "state" : "translated",
+            "value" : "Toon alleen vensters uit de huidige space (het huidige bureaublad) in voorvertoningen. Appsymbolen blijven in het Dock staan."
           }
         },
         "no" : {
@@ -297902,8 +298430,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Only list windows from the current Space in dock previews; app icons stay in the dock"
+            "state" : "translated",
+            "value" : "Toon alleen vensters uit de huidige space in Dock-voorvertoningen; appsymbolen blijven in het Dock staan"
           }
         },
         "no" : {
@@ -298618,8 +299146,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Only Show Apps on Current Space"
+            "state" : "translated",
+            "value" : "Alleen apps in huidige space tonen"
           }
         },
         "no" : {
@@ -300409,8 +300937,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Only While in Fullscreen"
+            "state" : "translated",
+            "value" : "Alleen bij schermvullende weergave"
           }
         },
         "no" : {
@@ -302201,8 +302729,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Open and cycle Alt-Tab windows on the current Space only"
+            "state" : "translated",
+            "value" : "Open Alt-Tab en blader alleen door vensters in de huidige space"
           }
         },
         "no" : {
@@ -305603,8 +306131,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Open Panels With"
+            "state" : "translated",
+            "value" : "Panelen openen met"
           }
         },
         "no" : {
@@ -308825,8 +309353,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Open window previews, folder fan-outs, and widget panels with a long press, on hover, or with Option-click"
+            "state" : "translated",
+            "value" : "Open venstervoorvertoningen, uitklapbare mapweergaven en widgetpanelen door lang indrukken, aanwijzen of Option-klikken"
           }
         },
         "no" : {
@@ -309541,8 +310069,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Opening Panels"
+            "state" : "translated",
+            "value" : "Panelen openen"
           }
         },
         "no" : {
@@ -309899,8 +310427,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Option-Click"
+            "state" : "translated",
+            "value" : "Option-klikken"
           }
         },
         "no" : {
@@ -309977,8 +310505,8 @@
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Option-Click"
+            "state" : "translated",
+            "value" : "按住 Option 鍵並按一下"
           }
         }
       }
@@ -310078,8 +310606,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Option-click a dock item to open its panel. A long press acts as a normal click."
+            "state" : "translated",
+            "value" : "Option-klik op een Dock-onderdeel om het bijbehorende paneel te openen. Lang indrukken werkt als een gewone klik."
           }
         },
         "no" : {
@@ -331934,8 +332462,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Play the window's current content in preview thumbnails"
+            "state" : "translated",
+            "value" : "Toon de actuele vensterinhoud in voorvertoningsminiaturen"
           }
         },
         "no" : {
@@ -337664,8 +338192,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Previews open on hover. Adjust hover or choose another way to open them"
+            "state" : "translated",
+            "value" : "Voorvertoningen openen bij aanwijzen. Pas het aanwijzen aan of kies een andere manier om ze te openen"
           }
         },
         "no" : {
@@ -337843,8 +338371,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Previews open with a long press. Open them on hover or with Option-click instead"
+            "state" : "translated",
+            "value" : "Voorvertoningen openen bij lang indrukken. Open ze in plaats daarvan bij aanwijzen of met Option-klikken"
           }
         },
         "no" : {
@@ -338022,8 +338550,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Previews open with Option-click. Choose another way to open them"
+            "state" : "translated",
+            "value" : "Voorvertoningen openen met Option-klikken. Kies een andere manier om ze te openen"
           }
         },
         "no" : {
@@ -339633,8 +340161,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Profile Assignment"
+            "state" : "translated",
+            "value" : "Profieltoewijzing"
           }
         },
         "no" : {
@@ -364719,8 +365247,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Reveal Distance"
+            "state" : "translated",
+            "value" : "Afstand voor tonen van Dock"
           }
         },
         "no" : {
@@ -364898,8 +365426,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Reveal distance, delay, and slide animation speed."
+            "state" : "translated",
+            "value" : "Afstand en vertraging voor het verschijnen van het Dock en snelheid van de schuifanimatie."
           }
         },
         "no" : {
@@ -365256,8 +365784,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Reveal Stacked Widgets on Hover"
+            "state" : "translated",
+            "value" : "Gestapelde widgets tonen bij aanwijzen"
           }
         },
         "no" : {
@@ -375995,8 +376523,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Search Emoji"
+            "state" : "translated",
+            "value" : "Zoek emoji"
           }
         },
         "no" : {
@@ -381276,10 +381804,362 @@
     },
     "Select the \"%@\" folder, then click Choose. macOS only lets DockDoor Pro read a browser's data after you pick its folder here." : {
       "comment" : "Open panel message naming the browser profile data folder to select",
-      "extractionState" : "manual"
+      "extractionState" : "manual",
+      "localizations" : {
+        "af" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the \"%@\" folder, then click Choose. macOS only lets DockDoor Pro read a browser's data after you pick its folder here."
+          }
+        },
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the \"%@\" folder, then click Choose. macOS only lets DockDoor Pro read a browser's data after you pick its folder here."
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the \"%@\" folder, then click Choose. macOS only lets DockDoor Pro read a browser's data after you pick its folder here."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the \"%@\" folder, then click Choose. macOS only lets DockDoor Pro read a browser's data after you pick its folder here."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the \"%@\" folder, then click Choose. macOS only lets DockDoor Pro read a browser's data after you pick its folder here."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the \"%@\" folder, then click Choose. macOS only lets DockDoor Pro read a browser's data after you pick its folder here."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the \"%@\" folder, then click Choose. macOS only lets DockDoor Pro read a browser's data after you pick its folder here."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the \"%@\" folder, then click Choose. macOS only lets DockDoor Pro read a browser's data after you pick its folder here."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the \"%@\" folder, then click Choose. macOS only lets DockDoor Pro read a browser's data after you pick its folder here."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the \"%@\" folder, then click Choose. macOS only lets DockDoor Pro read a browser's data after you pick its folder here."
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the \"%@\" folder, then click Choose. macOS only lets DockDoor Pro read a browser's data after you pick its folder here."
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the \"%@\" folder, then click Choose. macOS only lets DockDoor Pro read a browser's data after you pick its folder here."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the \"%@\" folder, then click Choose. macOS only lets DockDoor Pro read a browser's data after you pick its folder here."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the \"%@\" folder, then click Choose. macOS only lets DockDoor Pro read a browser's data after you pick its folder here."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the \"%@\" folder, then click Choose. macOS only lets DockDoor Pro read a browser's data after you pick its folder here."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the \"%@\" folder, then click Choose. macOS only lets DockDoor Pro read a browser's data after you pick its folder here."
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the \"%@\" folder, then click Choose. macOS only lets DockDoor Pro read a browser's data after you pick its folder here."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the \"%@\" folder, then click Choose. macOS only lets DockDoor Pro read a browser's data after you pick its folder here."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the \"%@\" folder, then click Choose. macOS only lets DockDoor Pro read a browser's data after you pick its folder here."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the \"%@\" folder, then click Choose. macOS only lets DockDoor Pro read a browser's data after you pick its folder here."
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the \"%@\" folder, then click Choose. macOS only lets DockDoor Pro read a browser's data after you pick its folder here."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the \"%@\" folder, then click Choose. macOS only lets DockDoor Pro read a browser's data after you pick its folder here."
+          }
+        },
+        "sr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the \"%@\" folder, then click Choose. macOS only lets DockDoor Pro read a browser's data after you pick its folder here."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the \"%@\" folder, then click Choose. macOS only lets DockDoor Pro read a browser's data after you pick its folder here."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the \"%@\" folder, then click Choose. macOS only lets DockDoor Pro read a browser's data after you pick its folder here."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the \"%@\" folder, then click Choose. macOS only lets DockDoor Pro read a browser's data after you pick its folder here."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the \"%@\" folder, then click Choose. macOS only lets DockDoor Pro read a browser's data after you pick its folder here."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the \"%@\" folder, then click Choose. macOS only lets DockDoor Pro read a browser's data after you pick its folder here."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the \"%@\" folder, then click Choose. macOS only lets DockDoor Pro read a browser's data after you pick its folder here."
+          }
+        }
+      }
     },
     "Select the browser's profile data folder, for example Google > Chrome." : {
-      "comment" : "Open panel message for choosing a browser profile data directory"
+      "comment" : "Open panel message for choosing a browser profile data directory",
+      "localizations" : {
+        "af" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the browser's profile data folder, for example Google > Chrome."
+          }
+        },
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the browser's profile data folder, for example Google > Chrome."
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the browser's profile data folder, for example Google > Chrome."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the browser's profile data folder, for example Google > Chrome."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the browser's profile data folder, for example Google > Chrome."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the browser's profile data folder, for example Google > Chrome."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the browser's profile data folder, for example Google > Chrome."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the browser's profile data folder, for example Google > Chrome."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the browser's profile data folder, for example Google > Chrome."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the browser's profile data folder, for example Google > Chrome."
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the browser's profile data folder, for example Google > Chrome."
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the browser's profile data folder, for example Google > Chrome."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the browser's profile data folder, for example Google > Chrome."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the browser's profile data folder, for example Google > Chrome."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the browser's profile data folder, for example Google > Chrome."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the browser's profile data folder, for example Google > Chrome."
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the browser's profile data folder, for example Google > Chrome."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the browser's profile data folder, for example Google > Chrome."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the browser's profile data folder, for example Google > Chrome."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the browser's profile data folder, for example Google > Chrome."
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the browser's profile data folder, for example Google > Chrome."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the browser's profile data folder, for example Google > Chrome."
+          }
+        },
+        "sr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the browser's profile data folder, for example Google > Chrome."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the browser's profile data folder, for example Google > Chrome."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the browser's profile data folder, for example Google > Chrome."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the browser's profile data folder, for example Google > Chrome."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the browser's profile data folder, for example Google > Chrome."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the browser's profile data folder, for example Google > Chrome."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select the browser's profile data folder, for example Google > Chrome."
+          }
+        }
+      }
     },
     "Select what AppSense activates when focus moves to an unlinked app. Previous Profile restores the profile active before AppSense switched." : {
       "comment" : "Settings control description\nSettings search description",
@@ -393555,8 +394435,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Show a name tag under this item's icon in the dock"
+            "state" : "translated",
+            "value" : "Toon een naamlabel onder het symbool van dit onderdeel in het Dock"
           }
         },
         "no" : {
@@ -393734,8 +394614,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Show a placeholder card when a running app has no open windows"
+            "state" : "translated",
+            "value" : "Toon een tijdelijke kaart wanneer een geopende app geen geopende vensters heeft"
           }
         },
         "no" : {
@@ -393913,8 +394793,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Show a placeholder preview card for running apps that have no windows"
+            "state" : "translated",
+            "value" : "Toon een tijdelijke voorvertoningskaart voor geopende apps zonder vensters"
           }
         },
         "no" : {
@@ -394450,8 +395330,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Show a progress ring on the app a download started from, like the native Dock"
+            "state" : "translated",
+            "value" : "Toon een voortgangsring op het symbool van de app waarin een download is gestart, net als in het standaard Dock van macOS"
           }
         },
         "no" : {
@@ -396598,8 +397478,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Show Artist"
+            "state" : "translated",
+            "value" : "Artiest tonen"
           }
         },
         "no" : {
@@ -400536,8 +401416,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Show icons that apps update themselves, like today's date in Calendar, just like the native Dock."
+            "state" : "translated",
+            "value" : "Toon symbolen die apps zelf bijwerken, zoals de datum van vandaag in Agenda, net als in het standaard Dock van macOS."
           }
         },
         "no" : {
@@ -402327,8 +403207,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Show Label"
+            "state" : "translated",
+            "value" : "Label tonen"
           }
         },
         "no" : {
@@ -404833,8 +405713,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Show Preview for Apps With No Open Windows"
+            "state" : "translated",
+            "value" : "Voorvertoning tonen voor apps zonder geopende vensters"
           }
         },
         "no" : {
@@ -407339,8 +408219,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Show Skip Buttons"
+            "state" : "translated",
+            "value" : "Knoppen voor vorig en volgend nummer tonen"
           }
         },
         "no" : {
@@ -407697,8 +408577,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Show Status Below Battery"
+            "state" : "translated",
+            "value" : "Status onder batterij tonen"
           }
         },
         "no" : {
@@ -409129,8 +410009,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Show the artist below the track title in medium and large stacks"
+            "state" : "translated",
+            "value" : "Toon de artiest onder de titel van het nummer in middelgrote en grote stapels"
           }
         },
         "no" : {
@@ -411098,8 +411978,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Show the previous and next track buttons in medium and large stacks"
+            "state" : "translated",
+            "value" : "Toon de knoppen voor het vorige en volgende nummer in middelgrote en grote stapels"
           }
         },
         "no" : {
@@ -412351,8 +413231,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Show the time remaining or charging status under the battery in small stacks"
+            "state" : "translated",
+            "value" : "Toon de resterende tijd of oplaadstatus onder de batterij in kleine stapels"
           }
         },
         "no" : {
@@ -413784,7 +414664,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Toon venstervoorbeelden"
+            "value" : "Toon venstervoorvertoningen"
           }
         },
         "no" : {
@@ -415752,8 +416632,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Shown on desktops set to None"
+            "state" : "translated",
+            "value" : "Getoond op bureaubladen met de instelling ‘Geen’"
           }
         },
         "no" : {
@@ -424530,8 +425410,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Slide the detached tray in at the screen edge and away when the cursor leaves"
+            "state" : "translated",
+            "value" : "Laat het losgemaakte bestandsvak bij de schermrand inschuiven en weer verdwijnen wanneer de aanwijzer het verlaat"
           }
         },
         "no" : {
@@ -425246,8 +426126,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Slide the tray in when the cursor or a file drag reaches the screen edge, and away when it leaves. Turn off to keep it always visible."
+            "state" : "translated",
+            "value" : "Laat het bestandsvak inschuiven wanneer je de schermrand aanwijst of er een bestand naartoe sleept, en weer verdwijnen wanneer je de aanwijzer weghaalt. Schakel dit uit om het bestandsvak altijd zichtbaar te houden."
           }
         },
         "no" : {
@@ -432588,8 +433468,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Stack Open Apps"
+            "state" : "translated",
+            "value" : "Geopende apps stapelen"
           }
         },
         "no" : {
@@ -450937,7 +451817,183 @@
       }
     },
     "That folder doesn't contain browser profile data. Choose the folder that holds the \"Local State\" file." : {
-      "comment" : "Alert message when the chosen folder is not a browser profile data directory"
+      "comment" : "Alert message when the chosen folder is not a browser profile data directory",
+      "localizations" : {
+        "af" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "That folder doesn't contain browser profile data. Choose the folder that holds the \"Local State\" file."
+          }
+        },
+        "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "That folder doesn't contain browser profile data. Choose the folder that holds the \"Local State\" file."
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "That folder doesn't contain browser profile data. Choose the folder that holds the \"Local State\" file."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "That folder doesn't contain browser profile data. Choose the folder that holds the \"Local State\" file."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "That folder doesn't contain browser profile data. Choose the folder that holds the \"Local State\" file."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "That folder doesn't contain browser profile data. Choose the folder that holds the \"Local State\" file."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "That folder doesn't contain browser profile data. Choose the folder that holds the \"Local State\" file."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "That folder doesn't contain browser profile data. Choose the folder that holds the \"Local State\" file."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "That folder doesn't contain browser profile data. Choose the folder that holds the \"Local State\" file."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "That folder doesn't contain browser profile data. Choose the folder that holds the \"Local State\" file."
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "That folder doesn't contain browser profile data. Choose the folder that holds the \"Local State\" file."
+          }
+        },
+        "hu" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "That folder doesn't contain browser profile data. Choose the folder that holds the \"Local State\" file."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "That folder doesn't contain browser profile data. Choose the folder that holds the \"Local State\" file."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "That folder doesn't contain browser profile data. Choose the folder that holds the \"Local State\" file."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "That folder doesn't contain browser profile data. Choose the folder that holds the \"Local State\" file."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "That folder doesn't contain browser profile data. Choose the folder that holds the \"Local State\" file."
+          }
+        },
+        "no" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "That folder doesn't contain browser profile data. Choose the folder that holds the \"Local State\" file."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "That folder doesn't contain browser profile data. Choose the folder that holds the \"Local State\" file."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "That folder doesn't contain browser profile data. Choose the folder that holds the \"Local State\" file."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "That folder doesn't contain browser profile data. Choose the folder that holds the \"Local State\" file."
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "That folder doesn't contain browser profile data. Choose the folder that holds the \"Local State\" file."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "That folder doesn't contain browser profile data. Choose the folder that holds the \"Local State\" file."
+          }
+        },
+        "sr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "That folder doesn't contain browser profile data. Choose the folder that holds the \"Local State\" file."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "That folder doesn't contain browser profile data. Choose the folder that holds the \"Local State\" file."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "That folder doesn't contain browser profile data. Choose the folder that holds the \"Local State\" file."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "That folder doesn't contain browser profile data. Choose the folder that holds the \"Local State\" file."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "That folder doesn't contain browser profile data. Choose the folder that holds the \"Local State\" file."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "That folder doesn't contain browser profile data. Choose the folder that holds the \"Local State\" file."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "That folder doesn't contain browser profile data. Choose the folder that holds the \"Local State\" file."
+          }
+        }
+      }
     },
     "The app row is scrollable." : {
       "comment" : "Dock anatomy note title",
@@ -454258,8 +455314,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The screen edge the detached tray sits on. The dock's own edge isn't available."
+            "state" : "translated",
+            "value" : "De schermrand waar het losgemaakte bestandsvak staat. De rand waar het Dock staat, is niet beschikbaar."
           }
         },
         "no" : {
@@ -461426,8 +462482,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Thumbnails play the window's current content while a preview is open. Uses more energy while previews are showing."
+            "state" : "translated",
+            "value" : "Miniaturen tonen de actuele vensterinhoud zolang een voorvertoning open is. Dit gebruikt meer energie zolang voorvertoningen zichtbaar zijn."
           }
         },
         "no" : {
@@ -465185,8 +466241,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "To also hide dock icons of apps on other Spaces, turn on Only Show Apps on Current Space"
+            "state" : "translated",
+            "value" : "Schakel ‘Alleen apps in huidige space tonen’ in om ook Dock-symbolen van apps in andere spaces te verbergen"
           }
         },
         "no" : {
@@ -471272,8 +472328,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Tray Edge"
+            "state" : "translated",
+            "value" : "Schermrand voor bestandsvak"
           }
         },
         "no" : {
@@ -473601,8 +474657,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Turn the dock on or off per display, and give each its own edge. \"Use Global\" follows the orientation above."
+            "state" : "translated",
+            "value" : "Schakel het Dock per beeldscherm in of uit en stel voor elk beeldscherm een eigen rand in. ‘Gebruik algemene instelling’ volgt de hierboven gekozen positie."
           }
         },
         "no" : {
@@ -498140,8 +499196,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "When the pointer rests on a stack, fan out the widgets behind it and gently nudge them to show the stack can be scrolled."
+            "state" : "translated",
+            "value" : "Klap de widgets achter een stapel uit en laat ze licht bewegen wanneer je de stapel aanwijst, zodat je ziet dat je door de stapel kunt scrollen."
           }
         },
         "no" : {
@@ -508704,8 +509760,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Window dots count only the windows on the desktop you're viewing"
+            "state" : "translated",
+            "value" : "Bij de vensterstippen worden alleen vensters op het huidige bureaublad meegeteld"
           }
         },
         "no" : {
@@ -509422,7 +510478,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Venstervoorbeelden"
+            "value" : "Venstervoorvertoningen"
           }
         },
         "no" : {
